@@ -1,6 +1,6 @@
-# Título do Projeto
+# Unmanned Aerial Vehicle Artificial Intelligence System
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA`
 
@@ -10,16 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Gabriel Oliveira Roque
+* Leticia Rodrigues de Oliveira Santos
+* Marytom Erllem Silva Sousa
+* Matheus Moreira Paes
+* Nicole Andrade
+* Victor Costa de Carli
 
 ## Orientador
 
-* Nome completo do professor
+* Amália Soares Vieira de Vasconcelos
 
 # Documentação
 
