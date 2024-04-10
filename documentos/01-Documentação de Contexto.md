@@ -1,35 +1,39 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+O projeto aborda diversas áreas de prestação de serviços nas quais a autonomia utilizando drones e equipamentos similares é desafiadora. Por exemplo, na agricultura, onde a utilização de drones é atualmente bem aceita, há outras esferas como mineração, construção civil, logística, meio ambiente, varejo, arquitetura, urbanismo, filmagem e fotografia, segurança e monitoramento, energia, mercado imobiliário, telecomunicações, segurança pública e defesa (militar e bélica), além de inspeções de óleo e gás, esgoto e tratamento de água. Notamos que, para essas atividades, frequentemente fazemos uso de drones, e muitas vezes o controle desses dispositivos é manual. Nossa proposta consiste em enfrentar esse obstáculo e criar uma solução abrangente que atenda a cada um desses setores e muitos outros, oferecendo soluções específicas conforme a necessidade de cada cliente e usuário.
+
+Além de abordar as diversas áreas mencionadas anteriormente, visa também aprimorar a eficiência e a precisão das operações realizadas com drones e equipamentos afins. Pretendemos desenvolver uma plataforma integrada que não apenas automatize tarefas atualmente manuais, mas também incorpore tecnologias avançadas, como inteligência artificial e aprendizado de máquina, para otimizar o desempenho e a segurança das operações. Além disso, nosso objetivo é promover a interoperabilidade entre os diversos sistemas utilizados em diferentes setores, proporcionando uma experiência unificada e simplificada para os usuários. Com isso, almejamos não apenas facilitar o uso de drones em várias aplicações, mas também impulsionar a inovação e o desenvolvimento tecnológico em áreas que dependem significativamente dessas tecnologias emergentes.
+
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
-
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+Os desafios significativos em relação à autonomia e controle de drones em diversas áreas de prestação de serviços, tais como agricultura, mineração, construção civil, logística, entre outras. A dependência frequente de controle manual desses dispositivos limita a eficiência e a segurança das operações. Além disso, a falta de soluções integradas e específicas para cada setor dificulta a maximização do potencial dos drones. Isso resulta em ineficiências operacionais, custos adicionais e potenciais riscos à segurança. A complexidade e diversidade das demandas de cada segmento também representam um desafio na concepção de uma solução abrangente e adaptável. Esses problemas destacam a necessidade premente de uma abordagem inovadora e integrada para superar as limitações atuais na utilização de drones em diferentes contextos de prestação de serviços.
 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O Objetivo é criar um sistema genérico para drones, onde pode adaptá-lo para cada necessidade específica do drone, onde utiliza a inteligência artificial para fazer comandos autônomos para aquele drone sem a necessidade de um piloto  controlando ele o tempo todo.
+
+combater a presença de ervas daninhas de maneira não-localizada necessita da utilização excessiva de herbicidas, algo que, além de ser bastante custoso, pode provocar danos ao meio ambiente. Tendo isso em vista, o objetivo deste TCC é utilizar das tecnologias atuais de processamento de imagem e aprendizado de máquina para criar soluções automatizadas de detecção e mapeamento de infestações nas culturas de soja, de forma a combater esse tipo de infestação de maneira mais eficiente e localizada. (CORDEIRO; FELINTO, 2022, p.01)
+
+Agronegócio - Benefícios do uso de drone para pulverização de defensivos é a substituição de trabalhadores. Isso elimina risco de exposição e incluem: aplicações complementares, rapidez, precisão, qualidade e aplicações localizadas. Além dos usos agrícolas, drones também são úteis na pecuária
+
+Segurança e monitoramento - Usar drones para a segurança já é algo frequente, especialmente em grandes eventos.Na maioria das vezes, é utilizado para realizar o monitoramento algum lugar
+
+
+Varejo - As aplicações na logística de novas ferramentas tecnológicas, trazem para operações de varejo a inovação e a rapidez no despacho de mercadorias compradas tanto em lojas físicas como em e-commerces, além de diversas  vantagens, as quais podem ser alcançadas com estas novidades. Sendo assim, empresários lojistas de todos os setores, que já utilizam operações tradicionais de despacho de itens, passam a discutir e considerar esta tendência para os próximos anos, pois diante de diversas possibilidades, uma gama de oportunidades surge junto a estes novos dispositivos
+
+Meio Ambiente - O drones podem ser utilizados para monitorar áreas de preservação e identificar irregularidades. Além disso, os drones são capazes de coletar dados em áreas inacessíveis aos seres humanos e isso pode facilitar o processo de licenciamento. Os drones podem ser usados como semeadores no reflorestamento.
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+Os drones entraram no nosso dia a dia, através do trabalho de captura de imagens, realizando fotos como jamais foram vistas, e utilizado muito no ramo publicitário, mas a tecnologia avançou, e de forma acelerada, e com tudo isso grandes empresas de diversos setores investiram em pesquisas e no desenvolvimento dos drones para os segmentos em que atuam, isso trazendo um aumento na fabricação de drones e de softwares trazendo um salto de tecnologia impressionante para o mercado de drones. Os drones hoje são embarcados com muita tecnologia, são equipados para resistir a trabalhos pesados e ambientes hostis, possuem sensores de última geração acoplados a GPS com precisão de centímetros, podem carregar diversas câmeras de altíssima definição com zoom, câmeras térmicas, para análise de qualidade de vegetação e etc. Existem drones e câmeras para cada tipo de aplicabilidade. (MATEUS, 2023, on-line)
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+A grande demanda necessita de vários profissionais capacitados para manuseio cada drone, exercendo uma função específica, na qual será necessário fazer comandos manuais onde cada equipamento precisará de um profissional para coordená-lo.
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+Podemos notar que com a crescente evolução de novas tecnologias se tornou necessário a utilização da mesma para fins de agilidade e praticidade da vida humana. 
+Hoje com a proposta de drone automatizado com os requisitos apresentados pelo próprio cliente podemos atender vários nichos. 
+Como Agricultura, Mineração, Construção Civil, Meio Ambiente, Varejo, Arquitetura, Urbanismo, Filmagem e fotografia, Segurança e monitoramento, Agronegócio, Energia, Mercado imobiliário, Acompanhamento de obras, Telecomunicações, Logística, Inspeções Óleo e Gás Inspeções Esgoto e Tratamento de Água.
 
