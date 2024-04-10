@@ -79,7 +79,9 @@
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
+Este documento delineia os requisitos do projeto para a implementação bem-sucedida de drones em uma variedade de setores, visando melhorar a eficiência, segurança e eficácia das operações. 
+Realizando em diferentes áreas, com ênfase em aplicações como agricultura, topografia, monitoramento ambiental, entre outros que possam ajudar no dia a dia da população ou governamental.
+
 
 ### Requisitos Funcionais
 
