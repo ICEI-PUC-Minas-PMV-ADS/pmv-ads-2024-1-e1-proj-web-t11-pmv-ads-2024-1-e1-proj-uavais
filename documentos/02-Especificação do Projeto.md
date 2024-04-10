@@ -91,14 +91,14 @@ Realizando em diferentes áreas, com ênfase em aplicações como agricultura, t
 |-------|---------------------------------|----|
 | RF-01 |  A aplicação deve permitir ao usuário criar uma conta.| ALTA  | 
 | RF-02 |  A aplicação deve permitir que o usuário faça login com a conta.  | ALTA  |
-| RF-03 | A aplicação deve oferecer a funcionalidade de cadastrar empresas  | ALTA  |
-| RF-03 |	A aplicação deve oferecer a funcionalidade de cadastrar empresas  | AlTA |
-| RF-04 |	A aplicação deve oferecer a funcionalidade de notificar qualquer ameaça detectada pelo drone. | MÉDIA |
-| RF-05 |	A aplicação deve oferecer a funcionalidade de cadastrar as imagens tiradas pelo drone. | MÉDIA |
-| RF-06 |	A aplicação deve permitir visualizar os detalhes da imagem adicionando mais informações. | MÉDIA |
-| RF-07 |	A aplicação deve mostrar a localização exata quando o drone estiver sobrevoando a rota. 	| ALTA |
-| RF-08 |	A aplicação deve oferecer a funcionalidade de cadastrar rotas de voo. | ALTA |
-| RF-09 |	A aplicação deve permitir a autorização do voo em determinada localização.	| MÉDIA |
+| RF-03 |  A aplicação deve oferecer a funcionalidade de cadastrar empresas  | ALTA  |
+| RF-03 |	 A aplicação deve oferecer a funcionalidade de cadastrar empresas  | AlTA |
+| RF-04 |	 A aplicação deve oferecer a funcionalidade de notificar qualquer ameaça detectada pelo drone. | MÉDIA |
+| RF-05 |	 A aplicação deve oferecer a funcionalidade de cadastrar as imagens tiradas pelo drone. | MÉDIA |
+| RF-06 |	 A aplicação deve permitir visualizar os detalhes da imagem adicionando mais informações. | MÉDIA |
+| RF-07 |	 A aplicação deve mostrar a localização exata quando o drone estiver sobrevoando a rota. 	| ALTA |
+| RF-08 |	 A aplicação deve oferecer a funcionalidade de cadastrar rotas de voo. | ALTA |
+| RF-09 |	 A aplicação deve permitir a autorização do voo em determinada localização.	| MÉDIA |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
