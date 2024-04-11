@@ -31,7 +31,8 @@ O quadro do Kanban está disponível em: https://github.com/orgs/ICEI-PUC-Minas-
 
 ### Planejamento
 
-![Captura de tela 2024-04-11 122212](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/155641936/d593ab26-2474-456a-9fb8-4e654b02b263)
+![Kanban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/155641936/68f181ac-b8d9-4497-8fdc-8e1c97f3ff6a)
+
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
