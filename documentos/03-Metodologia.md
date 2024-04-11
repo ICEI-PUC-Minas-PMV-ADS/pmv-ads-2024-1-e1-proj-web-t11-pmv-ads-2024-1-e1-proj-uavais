@@ -26,6 +26,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
 - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+![Captura de tela 2024-04-11 122212](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/155641936/d593ab26-2474-456a-9fb8-4e654b02b263)
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
