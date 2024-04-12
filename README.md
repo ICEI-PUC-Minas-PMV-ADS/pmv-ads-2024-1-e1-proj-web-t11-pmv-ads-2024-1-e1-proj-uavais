@@ -2,9 +2,9 @@
 
 `Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação Web Front-End`
 
-`SEMESTRE`
+`1º Semestre de 2024`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
@@ -14,7 +14,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Leticia Rodrigues de Oliveira Santos
 * Marytom Erllem Silva Sousa
 * Matheus Moreira Paes
-* Nicole Andrade
 * Victor Costa de Carli
 
 ## Orientador
