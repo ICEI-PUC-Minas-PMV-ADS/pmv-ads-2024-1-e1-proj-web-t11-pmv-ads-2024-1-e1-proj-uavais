@@ -8,7 +8,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
+
 - Scrum Master: Maryton Erllem Silva Sousa
 - Product Owner: Leticia Rodrigues de OLiveira Santos
 - Equipe de Desenvolvimento: Gabriel Oliveira Roque, Leticia Rodrigues de OLiveira Santos, Maryton Erllem Silva Sousa, Matheus Moreira Paes e Victor Costa de Carli
