@@ -6,7 +6,7 @@
 
 `1º Semestre de 2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O Projeto consiste na solução para o desenvolvimento de um sistema para uso de Inteligência artificial nas atividade de veículos aéreo não tripulado.
 
 ## Integrantes
 
