@@ -26,7 +26,7 @@ Meio Ambiente - O drones podem ser utilizados para monitorar áreas de preserva�
 
 ## Justificativa
 
-Os drones entraram no nosso dia a dia, através do trabalho de captura de imagens, realizando fotos como jamais foram vistas, e utilizado muito no ramo publicitário, mas a tecnologia avançou, e de forma acelerada, e com tudo isso grandes empresas de diversos setores investiram em pesquisas e no desenvolvimento dos drones para os segmentos em que atuam, isso trazendo um aumento na fabricação de drones e de softwares trazendo um salto de tecnologia impressionante para o mercado de drones. Os drones hoje são embarcados com muita tecnologia, são equipados para resistir a trabalhos pesados e ambientes hostis, possuem sensores de última geração acoplados a GPS com precisão de centímetros, podem carregar diversas câmeras de altíssima definição com zoom, câmeras térmicas, para análise de qualidade de vegetação e etc. Existem drones e câmeras para cada tipo de aplicabilidade. (MATEUS, 2023, on-line)
+"O Brasil é, hoje, o principal mercado de drones da América do Sul e o segundo mais relevante das Américas, ficando atrás apenas dos EUA, com faturamento anual de US$ 373 milhões (R$ 1,872 bilhão)", (DINO, 2023).
 
 A grande demanda necessita de vários profissionais capacitados para manuseio cada drone, exercendo uma função específica, na qual será necessário fazer comandos manuais onde cada equipamento precisará de um profissional para coordená-lo.
 
