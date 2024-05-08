@@ -5,7 +5,7 @@
 }
 
 body{
-  height: 900vh;
+  max-height: 10vh;
 }
 
 .cabecalho{
@@ -97,11 +97,31 @@ ul li#item-menu a{
 .contents div{
   display: none;
   padding-top: 70px;
-  padding-left: 150px;
+  padding-left: 240px;
+
 }
 
 .contents .active{
   display: block;
 }
 
+.galley-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 2vw;
+  padding: 0 1vw;
+}
+
+.gallery-items{
+  width: 340px;
+  height: 250px;
+  box-shadow: 5px 5px 5px #0006;
+}
+
+.gallery-items img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
 
