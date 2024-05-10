@@ -107,74 +107,52 @@ body{
   left: 220px;
 }
 
-.preencher p{
+.secao{
+  background-color: #EBEBEB;
+  border: none;
+  border-radius: 15px;
+  position: absolute;
+  top: 210px;
+  left: 95px;
+  width: 450px;
+  height: 40px;
+}
+
+.preencher i{
+  font-size: 25px;
+  position: absolute;
+  top: 213px;
+  left: 108px;
+}
+
+.placeholder{
   color: #959D99;
-  font-size: 16px;
-}
-
-.secoes{
   position: absolute;
-  top: 30%;
-  left: 93px;
-  background-color: #EBEBEB;
-  border-radius: 10px;
-  width: 450px;
-  height: 50px;
+  top: 221px;
+  left: 138px;
+  font-weight: 400;
 }
 
-.secoes2{
+.input2{
   position: absolute;
-  top: 40%;
-  left: 93px;
-  background-color: #EBEBEB;
-  border-radius: 10px;
-  width: 450px;
-  height: 50px;
+  top: 55px;
 }
 
-.secoes3{
+.input2 i{
   position: absolute;
-  top: 50%;
-  left: 93px;
-  background-color: #EBEBEB;
-  border-radius: 10px;
-  width: 450px;
-  height: 50px;
+  top: 215px;
+  font-size: 23px;
 }
 
-.secoes4{
+.input3{
   position: absolute;
-  top: 60%;
-  left: 93px;
-  background-color: #EBEBEB;
-  border-radius: 10px;
-  width: 450px;
-  height: 50px;
+  top: 111px;
 }
 
-.secoes p{
-  position: relative;
-  left: 50px;
-  top: 12px;
+.input4{
+  position: absolute;
+  top: 170px;
 }
-
-.secoes2 p{
-  position: relative;
-  left: 50px;
-  top: 12px;
-}
-
-.secoes3 p{
-  position: relative;
-  left: 50px;
-  top: 12px;
-}
-
-.secoes4 p{
-  position: relative;
-  left: 50px;
-  top: 12px;
- }
 
  .botao-cadastrar{
   background-color: #556B2F;
@@ -183,7 +161,7 @@ body{
   height: 50px;
   position: absolute;
   top: 80%;
-  left: 233px;
+  left: 231px;
  }
 
  .botao-cadastrar h3{
