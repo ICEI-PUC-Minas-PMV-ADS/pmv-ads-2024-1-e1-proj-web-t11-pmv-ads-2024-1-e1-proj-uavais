@@ -1,0 +1,196 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+body{
+  background-image:url(../img/login/fundo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #959D99;
+}
+
+.caixa{
+  position: absolute;
+  top: 50%;
+  right: 3%;
+  transform: translate(-50%, -50%);
+  border-radius: 30px;
+  width: 900px;
+  height: 650px;
+  background-color: white;
+}
+
+.parte-verde{
+  position: relative;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  background-color: #556B2F;
+  width: 270px;
+  height: 650px;
+}
+
+.parte-verde img{
+  width: 200px;
+  position: absolute;
+  top: 25%;
+  left: 38px;
+}
+
+.parte-verde h3{
+  font-weight: 700;
+  font-size: 33px;
+  position: absolute;
+  color: white;
+  top: 60%;
+  left: 13%;
+}
+
+.parte-verde p{
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  font-weight: 200;
+  top: 67%;
+  left: 13%;
+}
+
+.botao-entrar{
+  border: solid white 1px;
+  border-radius: 30px;
+  width: 170px;
+  height: 50px;
+  position: absolute;
+  top: 80%;
+  left: 19%;
+}
+
+.botao-entrar h3{
+  font-weight: 700;
+  position: absolute;
+  font-size: 20px;
+  top: 8px;
+  left: 25%;
+
+}
+
+.parte-branca{
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  position: absolute;
+  background-color: white;
+  width: 630px;
+  height: 650px;
+  top: 0%;
+  left: 30%;
+}
+
+.parte-branca h3{
+  font-weight: 700;
+  position: absolute;
+  color: #556B2F;
+  font-size: 30px;
+  top: 12%;
+  left: 188px;
+
+}
+
+.parte-branca p{
+  color: #556B2F;
+  position: absolute;
+  font-size: 18px;
+  font-weight: 400;
+  top: 20%;
+  left: 220px;
+}
+
+.preencher p{
+  color: #959D99;
+  font-size: 16px;
+}
+
+.secoes{
+  position: absolute;
+  top: 30%;
+  left: 93px;
+  background-color: #EBEBEB;
+  border-radius: 10px;
+  width: 450px;
+  height: 50px;
+}
+
+.secoes2{
+  position: absolute;
+  top: 40%;
+  left: 93px;
+  background-color: #EBEBEB;
+  border-radius: 10px;
+  width: 450px;
+  height: 50px;
+}
+
+.secoes3{
+  position: absolute;
+  top: 50%;
+  left: 93px;
+  background-color: #EBEBEB;
+  border-radius: 10px;
+  width: 450px;
+  height: 50px;
+}
+
+.secoes4{
+  position: absolute;
+  top: 60%;
+  left: 93px;
+  background-color: #EBEBEB;
+  border-radius: 10px;
+  width: 450px;
+  height: 50px;
+}
+
+.secoes p{
+  position: relative;
+  left: 50px;
+  top: 12px;
+}
+
+.secoes2 p{
+  position: relative;
+  left: 50px;
+  top: 12px;
+}
+
+.secoes3 p{
+  position: relative;
+  left: 50px;
+  top: 12px;
+}
+
+.secoes4 p{
+  position: relative;
+  left: 50px;
+  top: 12px;
+ }
+
+ .botao-cadastrar{
+  background-color: #556B2F;
+  border-radius: 30px;
+  width: 190px;
+  height: 50px;
+  position: absolute;
+  top: 80%;
+  left: 233px;
+ }
+
+ .botao-cadastrar h3{
+  color: white;
+  font-size: 20px;
+  position: relative;
+  left: 43px;
+  top: 9px;
+ }
+
