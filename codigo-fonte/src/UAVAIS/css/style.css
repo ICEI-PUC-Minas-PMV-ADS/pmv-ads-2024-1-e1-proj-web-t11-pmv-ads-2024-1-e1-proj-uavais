@@ -37,10 +37,32 @@
 .user h3{
   margin-left: 10px;
   margin-top: 7px;
+  font-weight: 300;
+}
+
+.botao-sair{
+  font-weight: 300;
+  font-size: 15px;
+  border-radius: 15px;
+  border: none;
+  color: white;
+  background-color: #585858;
+  width: 60px;
+  height: 30px;
+  position: absolute;
+  top: 5px;
+  right: 0px;
+  cursor: pointer;
+}
+
+.botao-sair:hover{
+  background-color: rgb(133, 204, 133);
 }
 
 .user a{
-  color: #556B2F;
+  color: #e2e2e2;
+  position: absolute;
+  right: 80px;
 }
 
 
