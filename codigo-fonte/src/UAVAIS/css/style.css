@@ -184,7 +184,7 @@ a{
     border-radius: 10px;
     position:absolute;
     top: 50%;
-    transform: translate(105%, -50%);
+    transform: translate(110%, -50%);
 }
 
 .picture:hover {
@@ -209,10 +209,17 @@ a{
     max-width: 100%;
 }
 
+.picture_image {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, 0%);
+}
+
 #container-a {
     weight: 400px;
     height: 350px;
-    background: #eee;
+    background: #white;
     vertical-align: top;
     position: relative;
 }
@@ -237,4 +244,13 @@ section {
 
 #titulo01 {
   text-align: center;
+  font-size: 30px;
+  color: #556B2F;
+  margin-top: 50px;
+}
+
+#titulo02 {
+  text-align: center;
+  font-size: 30px;
+  color: #556B2F;
 }
