@@ -107,6 +107,34 @@ body{
   left: 220px;
 }
 
+.msgError{
+  width: 300px;
+  height: 25px;
+  position: relative;
+  top: 170px;
+  left: 164px;
+  text-align: center;
+  color: #9b0000;
+  background-color: #ffbbbb;
+  padding: 10px;
+  border-radius: 4px;
+  display: none;
+}
+
+.msgSucess{
+  width: 300px;
+  height: 25px;
+  position: relative;
+  top: 170px;
+  left: 232px;
+  text-align: center;
+  color: #007900;
+  background-color: #bbffbe;
+  padding: 10px;
+  border-radius: 4px;
+  display: none;
+}
+
 .secao{
   background-color: #EBEBEB;
   border: none;
@@ -118,17 +146,39 @@ body{
   height: 40px;
 }
 
+#input{
+  padding-left: 92px;
+}
+
+#input2 {
+  padding-left: 89px;
+}
+
+#input3{
+  padding-left: 95px;
+}
+
+#input4{
+  padding-left: 169px;
+}
+
+.preencher input{
+  font-size: 16px;
+  font-weight: 400;
+  color: #464646;
+}
+
 .preencher i{
   font-size: 25px;
   position: absolute;
-  top: 213px;
+  top: 212px;
   left: 108px;
 }
 
 .placeholder{
   color: #959D99;
   position: absolute;
-  top: 221px;
+  top: 219px;
   left: 138px;
   font-weight: 400;
 }
@@ -154,21 +204,14 @@ body{
   top: 170px;
 }
 
- .botao-cadastrar{
-  background-color: #556B2F;
+#subm{
+  border: none;
   border-radius: 30px;
-  width: 190px;
-  height: 50px;
   position: absolute;
-  top: 80%;
-  left: 231px;
- }
-
- .botao-cadastrar h3{
-  color: white;
-  font-size: 20px;
-  position: relative;
-  left: 43px;
-  top: 9px;
- }
+  top: 480px;
+  left: 245px;
+  width: 150px;
+  height: 35px;
+  font-size: 15px;
+}
 

@@ -29,8 +29,12 @@
       <div class="parte-branca">
         <h3>Crie a sua conta!</h3>
         <p>Preencha seus dados:</p>
+        
+        <div class="msgError"></div>
+        <div class="msgSucess"></div>
 
-        <div class="preencher">
+        <form class="preencher">
+          
           <div class="input1">
             <input type="text" class="secao" id="input">
             <i class="bi bi-person"></i>
@@ -38,31 +42,27 @@
           </div>
 
           <div class="input2">
-            <input type="text" class="secao" id="input2">
+            <input type="email" class="secao" id="input2">
             <i class="bi bi-envelope"></i>
             <span class="placeholder" id="placeholder2">Email:</span>
           </div>
 
           <div class="input3">
-            <input type="text" class="secao" id="input3">
+            <input type="password" class="secao" id="input3">
             <i class="bi bi-key"></i>
             <span class="placeholder" id="placeholder3">Senha:</span>
           </div>
 
           <div class="input4">
-            <input type="text" class="secao" id="input4">
+            <input type="password" class="secao" id="input4">
             <i class="bi bi-key"></i>
-            <span class="placeholder" id="place">Confirmar&nbsp;senha:</span>
+            <span class="placeholder" id="placeholder4">Confirmar&nbsp;senha:</span>
           </div>
+          <button type="submit" id="subm" onclick="cadastrar()">Continuar</button>
           
-        </div>
-        <a href="cadastro.html">
-          <div class="botao-cadastrar">
-            <h3>Continuar</h3>
-          </div>
-        </a>
+        </form>
       </div>
-
+      
     </div>
   
     <script src="javascript/login/login.js"></script>
