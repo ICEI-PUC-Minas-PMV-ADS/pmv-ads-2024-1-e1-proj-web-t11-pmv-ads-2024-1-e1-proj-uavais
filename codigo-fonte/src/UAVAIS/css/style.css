@@ -163,10 +163,15 @@ a{
   margin: 0 auto;
 }
 
+
+
 .active .canva h3{
   color: #556B2F;
-  font-size: 30px;
+  font-size: 22px;
   text-align: left;
+  position: absolute;
+  top: 720px;
+  left: 680px;
 }
 
 #farm1 img{
@@ -241,16 +246,19 @@ transform: translate(-50%, 0%);
 #container-a {
     weight: 400px;
     height: 350px;
-    background: #white;
+    background: white;
     vertical-align: top;
     position: relative;
+    left: 240px;
 }
 
 #container-b {
     weight: 400px;
-    height: 1000px;
+    height: 1200px;
     background: #eee;
-    vertical-align: top;  
+    position: absolute; 
+    right: 400px;
+    top: 430px;
 }
 
 img {
@@ -272,7 +280,10 @@ section {
 }
 
 #titulo02 {
+  position: absolute;
   text-align: center;
   font-size: 30px;
   color: #556B2F;
+  top: 350px;
+  left: 472px;
 }
