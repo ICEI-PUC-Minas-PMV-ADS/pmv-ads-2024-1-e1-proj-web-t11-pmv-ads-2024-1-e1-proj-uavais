@@ -105,6 +105,3 @@ Realizando em diferentes áreas, com ênfase em aplicações como agricultura, t
 | RNF-03 |	A aplicação deve ter um bom nível de acessibilidade ao usuário.	 | ALTA |
 **Prioridade: Alta / Média / Baixa. 
 
-
-**Prioridade: Alta / Média / Baixa. 
-
