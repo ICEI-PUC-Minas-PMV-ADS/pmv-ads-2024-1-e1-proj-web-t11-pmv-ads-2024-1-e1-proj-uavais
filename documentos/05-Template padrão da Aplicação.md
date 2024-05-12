@@ -22,7 +22,9 @@ Figura 2 - Tela de Cadastro e chamada para login
 <hr>
 
 Para a concepção do logotipo, consideramos um design que evocasse uma aeronave ou outro meio de transporte aéreo. Além disso, decidimos adotar uma abordagem minimalista para o formato do logotipo.
+
 ![UAVAIS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/160354706/0313a8c4-c1eb-4d0e-bc31-06f3d5a6ab1b)
+
 Figura 3 - Logotipo da aplicação Web UAVAIS.
 
 
