@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" href="favicon.ico">
   <title>UAVAIS</title>
 </head>
 <body>
@@ -42,7 +43,7 @@
                 <li id="item-menu">
                     <a href="#">
                         <span class="icon"><i class="bi bi-file-image"></i></span>
-                        <span class="txt-link">Cadastrar Imagem></span>span
+                        <span class="txt-link">Cadastrar Imagem</span>
                     </a>
                 </li>
                 <li id="item-menu">
@@ -62,25 +63,56 @@
         <div class="contents">
         
                 <div class="active">
-                    
-                        <nav class="gallery-container">
-                            
-                            <h3 style="color: #556B2F; font-size: 30px;">Destaques</h3>
-                            <a href="img/farm1.jpg" class="gallery-items" id="farm1"><img src="img/farm1.jpg" alt="farm1"></a>
-                            <a href="img/farm2.jpg" class="gallery-items" id="farm2"><img src="img/farm2.jpg" alt="farm2"></a>
-                            <section class="canva" style="width: 700px;">
-                                <h3 >Controle de Pragas</h3>
-                                <canvas id="myChart"></canvas>
+
+                        <section class="slider">
+                            <section class="slides">
+                                <input type="radio" name="radio-btn" id="radio1">
+                                <input type="radio" name="radio-btn" id="radio2">
+                                <input type="radio" name="radio-btn" id="radio3">
+                                <input type="radio" name="radio-btn" id="radio4">
+
+                                <section class="slide first">
+                                    <img src="img/farm1.jpg" alt="farm1">
+                                </section>
+                                <section class="slide">
+                                    <img src="img/farm2.jpg" alt="farm2">
+                                </section>
+                                <section class="slide">
+                                    <img src="img/farm3.jpg" alt="farm3">
+                                </section>
+                                <section class="slide">
+                                    <img src="img/farm4.jpg" alt="farm4">
+                                </section>
+
+                                <section class="navigation-auto">
+                                    <section class="auto-btn1"></section>
+                                    <section class="auto-btn2"></section>
+                                    <section class="auto-btn3"></section>
+                                    <section class="auto-btn4"></section>
+                                </section>
+
                             </section>
 
-                            <footer></footer>
-                            
-                        </nav>
+                            <section class="manual-navigation">
+                                <label for="radio1" class="manual-btn"></label>
+                                <label for="radio2" class="manual-btn"></label>
+                                <label for="radio3" class="manual-btn"></label>
+                                <label for="radio4" class="manual-btn"></label>
+                        
+                            </section>
+                        </section>
+                    
+
+                        <section class="canva" style="width: 700px;">
+                            <canvas id="myChart"></canvas>
+                            <h3>Controle de Pragas</h3>
+                        </section>
                    
                 </div>
-                <h3 id="titulo01">Cadastre sua imagem</h3>
+                <div id="div2">
+                <h2 id="titulo01">Cadastre sua imagem</h2>
 
-                <div class="col" id="container-a">
+                <section class="col" id="container-a">
                     
                     <label class="picture" tabIndex="0">
                     <input type ="file" accept="image/*" class="picture_input" />
@@ -88,13 +120,13 @@
                     <img class="picture2" src="" alt="">
                     </label>
         
-                </div>
+                </sec>
+                
+                <h2 id="titulo02">Imagens adicionadas</h2>
         
-                <H3 id="titulo02">Imagens adicionadas</H3>
-        
-                <div class="col"  id="container-b">
+                <section class="col"  id="container-b">
                     
-                    <section>
+                    <section class="galeria-img">
                         <img src="Imagens/laranja-01.jpg">
                         <img src="Imagens/laranja-02.jpg">
                         <img src="Imagens/laranja-infectada-01.jpg">
@@ -106,11 +138,24 @@
                         <img src="Imagens/laranja-05.jpg">
                     </section>
         
-                </div>    
-                <div>
-                    <h1>Conteúdo Solicitar Serviços</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error, omnis! Ut incidunt, facilis assumenda sit tempore corporis rerum dolore nobis ullam hic maiores, dolor cumque iste velit aliquam vero blanditiis?</p>
+                </se> 
                 </div>
+                <div class="solicitacos">
+
+                    <h1 id="serv">Solicitação de serviço</h1>
+
+                    <textarea class="cx" placeholder="Descreva o serviço"required></textarea>
+
+                    <form>
+                        <label for="file" class="custom-file-button">Anexar</label>
+                        <input type="file" id="file" name="file">
+                    </form>
+
+                    <button type="button" class="btn btn-outline-success2">Enviar</button>
+
+                    <h2>Historico de Serviço</h2>
+                    
+            </div>
                 <div>
                     <h1>Conteúdo Localização</h1>
                     <p id="demo">Clique no botão para obter sua localização:</p>

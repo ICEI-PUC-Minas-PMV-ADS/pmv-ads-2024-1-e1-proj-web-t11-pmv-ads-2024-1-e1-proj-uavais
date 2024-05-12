@@ -13,6 +13,31 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
+### [0.1.0] - 02/05/2024
+#### Adicionado
+- Homepage: arquivos HTML, CSS, JS e imagens.
+
+### [0.1.1] - 03/05/2024
+#### Adicionado
+- Localização: arquivos JS.
+
+### [0.1.2] - 07/05/2024
+#### Atualizado
+- Abas com conteúdos: arquivos HTML, CSS e JS.
+
+### [0.1.3] - 08/05/2024
+#### Atualizado
+- Homepage (Imagens e Gráfico): arquivos HTML, CSS e JS.
+
+### [0.1.4] - 10/05/2024
+#### Adicionado/Atualizado
+- Cabeçalho: arquivos HTML e CSS.
+- Cadastrar Imagens: arquivos HTML e CSS.
+- Solicitar Serviços: arquivos HTML e CSS.
+- Página de Cadastro: arquivos HTML, CSS e JS.
+
+### [0.1.5] - 11/05/2024
+#### Adicionado/Atualizado
+- Solicitação de Serviços: arquivos HTML e CSS.
+- Cadastrar Imagens: arquivos HTML e CSS.
+- Página de Login: arquivos HTML, CSS e JS.

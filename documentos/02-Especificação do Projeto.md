@@ -55,13 +55,6 @@
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`|
 |-----------------------------           |---------------------------                     |----------------------------------|
 | Empresa de entrega de alimentos.       | Realizar entrega de alimentos nas residências. | Agilizar a entrega de alimentos e reduzir custos.| 
@@ -99,6 +92,7 @@ Realizando em diferentes áreas, com ênfase em aplicações como agricultura, t
 | RF-07 |	 A aplicação deve mostrar a localização exata quando o drone estiver sobrevoando a rota. 	| ALTA |
 | RF-08 |	 A aplicação deve oferecer a funcionalidade de cadastrar rotas de voo. | ALTA |
 | RF-09 |	 A aplicação deve permitir a autorização do voo em determinada localização.	| MÉDIA |
+
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
@@ -110,8 +104,6 @@ Realizando em diferentes áreas, com ênfase em aplicações como agricultura, t
 | RNF-01 |	A aplicação deve ser responsiva para diversos dispositivos | Alta |
 | RNF-02 |  A aplicação deve ser compatível com os principais navegadores do mercado (Chrome, Firefox, Safari e Microsoft Edge). | ALTA |
 | RNF-03 |	A aplicação deve ter um bom nível de acessibilidade ao usuário.	 | ALTA |
-**Prioridade: Alta / Média / Baixa. 
-
 
 **Prioridade: Alta / Média / Baixa. 
 
