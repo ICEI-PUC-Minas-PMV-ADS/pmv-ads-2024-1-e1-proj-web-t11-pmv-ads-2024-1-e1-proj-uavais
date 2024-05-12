@@ -12,8 +12,8 @@ O acesso a tela de cadastro poderá ser feito logo após o cliente acessar o sit
 Exemplo da tela de cadastro: 
 
 
-![Untitled Diagram-Page-1 drawio](![RF001](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/160354706/ef2584eb-2ea2-43d0-8be3-0dd48a5bcd1f)
-)
+![RF001](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/160354706/a2a537a9-6759-4131-83cb-d37728b12ecc)
+
 
 
 
@@ -41,8 +41,8 @@ O acesso a tela de login poderá ser feito através da tela de cadastro, clicand
 Exemplo da tela de login: 
 
 
-![pagina-login](![RF002](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/160354706/a984655f-f169-42ef-8a45-2a07d40699db)
-)
+![RF002](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/160354706/586cfb3a-46e5-41e1-81c2-c9be17eed537)
+
 
 
 #### Requisito atendido
