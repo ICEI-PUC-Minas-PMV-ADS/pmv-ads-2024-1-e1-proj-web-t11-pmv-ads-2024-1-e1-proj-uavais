@@ -287,3 +287,88 @@ section {
   top: 350px;
   left: 472px;
 }
+/*Serviço*/
+.solicitacos
+
+#serv
+{
+  width: 500px;
+  height: 100%; 
+  font-size: xx-large;
+  font-family:Arial, Helvetica, sans-serif;
+  color: rgb(15, 15, 15);
+  text-align: center;
+  top: 100px;
+  margin-left: 110px;
+  margin: right 200px;
+}
+
+  textarea{width:600px;
+    font-size:22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #010101;
+    height: 250px;
+    border-color:rgb(26, 11, 124);
+    background-color:rgb(205, 201, 201);
+    position: absolute;
+    top: 25%;
+    left: 22%;
+    z-index: -1;
+    }
+
+    input[type="file"] {
+      display: none;
+    }
+    
+    /* Estilizar o botão personalizado */
+    .custom-file-button {
+      background-color: #ddd;
+      border: 1px solid #49ad50;
+      padding: 9px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100px;
+      height: 40px;
+      font: size 13PX;
+      font-family:Arial, Helvetica, sans-serif;
+      position: absolute;
+     top: 62%;
+     left: 22%;
+     z-index: -1;
+    }
+    
+    .custom-file-button:hover {
+      background-color:  #49ad50;
+    }
+
+    .btn-outline-success2{   
+      background-color: #ddd;
+      border: 1px solid #49ad50;
+      padding: 8px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100px;
+      height: 40px;
+      font: size 13PX;
+      font-family:Arial, Helvetica, sans-serif;
+      position: absolute;
+     top: 62%;
+     left: 55%;
+    z-index: -1;
+    }
+    .btn-outline-success2:hover{
+      background-color: #49ad50;
+    }
+
+
+  h2{ 
+    width: 500px;
+    height: 100%; 
+    font-size: xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(15, 15, 15);
+    top: 75%;
+    left: 15%;
+    position: absolute;
+    z-index: -1;
+  }
