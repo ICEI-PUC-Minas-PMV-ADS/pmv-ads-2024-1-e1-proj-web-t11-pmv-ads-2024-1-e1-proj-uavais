@@ -14,7 +14,6 @@ O Projeto consiste na solução para o desenvolvimento de um sistema para uso de
 * Leticia Rodrigues de Oliveira Santos
 * Marytom Erllem Silva Sousa
 * Matheus Moreira Paes
-* Victor Costa de Carli
 
 ## Orientador
 
