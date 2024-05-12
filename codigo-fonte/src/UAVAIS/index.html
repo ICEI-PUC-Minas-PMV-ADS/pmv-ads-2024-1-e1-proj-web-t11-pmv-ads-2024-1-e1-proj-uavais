@@ -63,23 +63,53 @@
         <div class="contents">
         
                 <div class="active">
-                    
-                        <nav class="gallery-container">
-                            
-                            <h3 style="color: #556B2F; font-size: 30px;">Destaques</h3>
-                            <a href="img/farm1.jpg" class="gallery-items" id="farm1"><img src="img/farm1.jpg" alt="farm1"></a>
-                            <a href="img/farm2.jpg" class="gallery-items" id="farm2"><img src="img/farm2.jpg" alt="farm2"></a>
-                            <section class="canva" style="width: 700px;">
-                                <h3>Controle de&nbsp;Pragas</h3>
-                                <canvas id="myChart"></canvas>
+
+                        <section class="slider">
+                            <section class="slides">
+                                <input type="radio" name="radio-btn" id="radio1">
+                                <input type="radio" name="radio-btn" id="radio2">
+                                <input type="radio" name="radio-btn" id="radio3">
+                                <input type="radio" name="radio-btn" id="radio4">
+
+                                <section class="slide first">
+                                    <img src="img/farm1.jpg" alt="farm1">
+                                </section>
+                                <section class="slide">
+                                    <img src="img/farm2.jpg" alt="farm2">
+                                </section>
+                                <section class="slide">
+                                    <img src="img/farm3.jpg" alt="farm3">
+                                </section>
+                                <section class="slide">
+                                    <img src="img/farm4.jpg" alt="farm4">
+                                </section>
+
+                                <section class="navigation-auto">
+                                    <section class="auto-btn1"></section>
+                                    <section class="auto-btn2"></section>
+                                    <section class="auto-btn3"></section>
+                                    <section class="auto-btn4"></section>
+                                </section>
+
                             </section>
 
-                            <footer></footer>
-                            
-                        </nav>
+                            <section class="manual-navigation">
+                                <label for="radio1" class="manual-btn"></label>
+                                <label for="radio2" class="manual-btn"></label>
+                                <label for="radio3" class="manual-btn"></label>
+                                <label for="radio4" class="manual-btn"></label>
+                        
+                            </section>
+                        </section>
+                    
+
+                        <section class="canva" style="width: 700px;">
+                            <canvas id="myChart"></canvas>
+                            <h3>Controle de Pragas</h3>
+                        </section>
                    
                 </div>
-                <div>
+                <div id="div2">
                 <h2 id="titulo01">Cadastre sua imagem</h2>
 
                 <section class="col" id="container-a">
