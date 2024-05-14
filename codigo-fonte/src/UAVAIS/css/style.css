@@ -297,7 +297,7 @@ a{
     color: #556b2f;
     border:2px dashed #aaa;
     cursor: pointer;
-    transition: color 300ms easy-in-out; background 300ms easy-in-ou; outline 300ms easy-in-out;
+    transition: color 300ms easy-in-out; background: 300ms easy-in-ou; outline: 300ms easy-in-out;
     border-radius: 10px;
     position:absolute;
     top: 50%;
@@ -334,7 +334,6 @@ transform: translate(-50%, 0%);
 }
 
 #container-a {
-    weight: 400px;
     height: 350px;
     background: white;
     vertical-align: top;
@@ -343,7 +342,6 @@ transform: translate(-50%, 0%);
 }
 
 #container-b {
-    weight: 400px;
     height: 1200px;
     background: #eee;
     position: absolute; 
