@@ -297,7 +297,7 @@ a{
     color: #556b2f;
     border:2px dashed #aaa;
     cursor: pointer;
-    transition: color 300ms easy-in-out; background: 300ms easy-in-ou; outline: 300ms easy-in-out;
+    transition: color 300ms easy-in-out; background 300ms easy-in-ou; outline 300ms easy-in-out;
     border-radius: 10px;
     position:absolute;
     top: 50%;
@@ -334,14 +334,18 @@ transform: translate(-50%, 0%);
 }
 
 #container-a {
+    weight: 400px;
     height: 350px;
     background: white;
     vertical-align: top;
-    position: relative;
-    left: 240px;
+    position:absolute;
+    left: 21px;
+    margin-left: 15%;
+    z-index: -1;
 }
 
 #container-b {
+    weight: 400px;
     height: 1200px;
     background: #eee;
     position: absolute; 
@@ -349,13 +353,13 @@ transform: translate(-50%, 0%);
     top: 430px;
 }
 
-.galeria-img img{
+img {
     width: 100%;
     border-radius: 4px;
     margin-bottom: 10px;
 }
 
-#div2 section {
+section {
     column-count: 3;
     column-gap: 10px;
 }
@@ -364,7 +368,9 @@ transform: translate(-50%, 0%);
   text-align: center;
   font-size: 30px;
   color: #556B2F;
-  margin-top: 50px;
+  top: 13%;
+  margin-top: 1px;
+  margin-left: 25%;
 }
 
 #titulo02 {
@@ -373,8 +379,21 @@ transform: translate(-50%, 0%);
   font-size: 30px;
   color: #556B2F;
   top: 350px;
-  left: 400px;
+  left: 135px;
+  margin-top: 75%;
+margin-left:  250px;
 }
+.galeria-img{
+  width: 250px;
+  height: 100px;
+  position: absolute;
+  top: 1%;
+  left: 1500%;
+  margin-top: 15%;
+  margin-left:2000%;
+  z-index: -1;
+}
+
 /*Serviço*/
 .solicitacos
 
