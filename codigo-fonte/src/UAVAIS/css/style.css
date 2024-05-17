@@ -353,13 +353,24 @@ transform: translate(-50%, 0%);
     top: 430px;
 }
 
-img {
+#titulo01{
+  position: absolute;
+  right: 795px;
+}
+
+.col{
+  position: absolute;
+  left: 280px;
+}
+
+.col img {
     width: 100%;
     border-radius: 4px;
     margin-bottom: 10px;
 }
 
-section {
+.galeria-img {
+  position: absolute;
     column-count: 3;
     column-gap: 10px;
 }
