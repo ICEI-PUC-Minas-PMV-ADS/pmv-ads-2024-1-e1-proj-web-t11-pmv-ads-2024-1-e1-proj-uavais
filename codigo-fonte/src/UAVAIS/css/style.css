@@ -413,3 +413,249 @@ a{
     left: 22%;
     z-index: -1;
     }
+    /*Quem somos*/
+    #qs{
+      width:600px;
+      font-size:50px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      color: #556B2F;
+      height: 250px;
+      position: absolute;
+      top: 10%;
+      left: 47%;
+      z-index: -1;
+  }
+  #np{
+      width:600px;
+      font-size:30px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #111010;
+      height: 250px;
+      position: absolute;
+      top: 25%;
+      left: 47%;
+      z-index: -1;
+  }
+  #desenv{width:1050px;
+      font-size:30px;
+      font-family:'Courier New', Courier, monospace;
+      color: white;
+      height: 250px;
+      position: absolute;
+      text-align: center;
+      top: 35%;
+      left: 27%;
+      z-index: -1;
+      
+  }
+  .valores{ width: 350px;
+      font-family:serif;
+      background-color: #556B2F;
+      color: white;
+     
+  }
+  #Missão{width: 255px;px;
+      font-size:35px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      height: 350px;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 80%;
+      left: 27%;
+      z-index: -1;
+  }
+  #fornecer{width: 210px;
+      font-size:20px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 92%;
+      left: 29%;
+      z-index: -1;
+      }
+  #visao{width: 255px;px;
+      font-size:35px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      height: 350px;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 80%;
+      left: 44%;
+      z-index: -1;
+  }
+  #v{width: 210px;
+      font-size:20px;
+      font-family:Courier New', Courier, monospace;
+      color: #111010;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 92%;
+      left: 45%;
+      z-index: -1;
+      
+  }
+  #objt{width: 255px;px;
+      font-size:35px;
+      font-family: 'Courier New', Courier, monospace];
+      height: 350px;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 80%;
+      left: 61%;
+      z-index: -1;
+  }
+  #objt1{width: 255px;
+      font-size:20px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 93%;
+      left: 61%;
+      z-index: -1;
+  }
+  #objt2{width: 230px;
+      font-size:20px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 105%;
+      left: 62%;
+      z-index: -1;
+  }
+  #objt3{width: 230px;
+      font-size:20px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 120% ;
+      left: 62%;
+      z-index: -1;
+  }
+  #valor{width: 255px;px;
+      font-size:35px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      height: 350px;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 80%;
+      left: 78%;
+      z-index: -1;
+  
+  }
+  #vlr1{width: 230px;
+      font-size:20px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 93%;
+      left: 79%;
+      z-index: -1;
+  
+  }
+  #vlr2{width: 230px;
+      font-size:20px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 110%;
+      left: 79%;
+      z-index: -1;
+  
+  }
+  #time{
+    width: 230px;
+      font-size:30px;
+      font-family: Courier New', Courier, monospace;
+      color: #111010;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      text-align: center;
+      top: 150%;
+      left: 50%;
+      z-index: -1;
+  }
+  #Gabriel{width: 255px;px;
+    font-size:15px;
+    font-family: Courier New', Courier, monospace;
+    color: #111010;
+    height: 350px;
+    border-color:rgb(26, 11, 124);
+    position: absolute;
+    top: 180%;
+    left: 27%;
+    z-index: -1;
+  }
+  #imgG{width: 80px;px;
+    height: 80px;
+    border-color:rgb(26, 11, 124);
+    position: absolute;
+    top: 165%;
+    left: 33%;
+    z-index: -1;
+    
+  }
+  #Marytom{width: 255px;px;
+    font-size:15px;
+    font-family: Courier New', Courier, monospace;
+    color: #111010;
+    height: 350px;
+    border-color:rgb(26, 11, 124);
+    position: absolute;
+    top: 165%;
+    left: 40%;
+    z-index: -1;
+  }
+  #Matheus{width: 255px;px;
+    font-size:15px;
+    font-family: Courier New', Courier, monospace;
+    color: #111010;
+    height: 350px;
+    border-color:rgb(26, 11, 124);
+    position: absolute;
+    top: 165%;
+    left: 53%;
+    z-index: -1;
+  }
+  #Leticia{width: 255px;px;
+    font-size:15px;
+    font-family: Courier New', Courier, monospace;
+    color: #111010;
+    height: 350px;
+    border-color:rgb(26, 11, 124);
+    position: absolute;
+    top: 179%;
+    left: 72%;
+    z-index: -1;
+  }
+
+#imgl{width: 80px;
+  height: 80px;
+  border-color:rgb(26, 11, 124);
+  position: absolute;
+  top: 165%;
+  left: 78%;
+  z-index: -1;
+  
+}
+ 
+  
