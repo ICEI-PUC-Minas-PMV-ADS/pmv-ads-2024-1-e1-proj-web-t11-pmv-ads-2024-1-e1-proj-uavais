@@ -331,10 +331,10 @@ a{
   margin: right 200px;
 }
 
-  textarea{width:600px;
+   #msg{width:600px;
     font-size:22px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #010101;
+    color: #111010;
     height: 250px;
     border-color:rgb(26, 11, 124);
     background-color:rgb(205, 201, 201);
@@ -344,7 +344,7 @@ a{
     z-index: -1;
     }
 
-    #file {
+    input[type="file"] {
       display: none;
     }
     
@@ -357,7 +357,7 @@ a{
       cursor: pointer;
       width: 100px;
       height: 40px;
-      font: size 13PX;
+      font-size:13PX;
       font-family:Arial, Helvetica, sans-serif;
       position: absolute;
      top: 62%;
@@ -400,3 +400,16 @@ a{
     position: absolute;
     z-index: -1;
   }
+  #salvarMsg{width:600px;
+    font-size:22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #010101;
+    height: 250px;
+    text-align:start ;
+    border-color:rgb(26, 11, 124);
+    background-color:rgb(205, 201, 201);
+    position: absolute;
+    top: 83%;
+    left: 22%;
+    z-index: -1;
+    }

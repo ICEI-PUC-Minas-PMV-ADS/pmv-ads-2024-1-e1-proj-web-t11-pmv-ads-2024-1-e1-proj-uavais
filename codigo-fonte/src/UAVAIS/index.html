@@ -124,17 +124,19 @@
 
                     <h1 id="serv">Solicitação de serviço</h1>
 
-                    <textarea class="cx" placeholder="Descreva o serviço"required></textarea>
+                    <input type="text" id="msg" placeholder="Descreva seu Serviço">
 
                     <form>
                         <label for="file" class="custom-file-button">Anexar</label>
                         <input type="file" id="file" name="file">
                     </form>
 
-                    <button type="button" class="btn btn-outline-success2">Enviar</button>
+                    <button onclick="salvarMsg()"  type="button"class="btn btn-outline-success2">Enviar</button>
+                     
 
                     <h2>Historico de Serviço</h2>
-                    
+                    <p id="salvarMsg"></p>
+                    <script src="/codigo-fonte/src/UAVAIS/javascript/serviço.js"></script>
             </div>
                 <div>
                     <h1>Conteúdo Localização</h1>
