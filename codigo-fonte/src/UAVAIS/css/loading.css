@@ -1,0 +1,69 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+body{
+  background-image:url(../img/fundoloading.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #959D99;
+}
+
+.logo{
+  width: 500px;
+  position: absolute;
+  top: 300px;
+  left: 720px;
+}
+
+.frase{
+  font-weight: 200;
+  font-size: 25px;
+  color: white;
+  position: absolute;
+  top: 430px;
+  left: 780px;
+}
+
+.loader {
+  position: absolute;
+  top: 525px;
+  left: 884px;
+  border: 3px solid #f3f3f3; /* Light grey */
+  border-top: 3px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  animation: revealSpin 8s, fade-up 0.5s,spin 2s linear infinite;
+}
+
+@keyframes revealSpin{
+  0%{
+    opacity: 0%;
+  }
+  100%{
+    opacity: 100%;
+  }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes revealText {
+  0%{
+    opacity: 0%;
+  }
+  100%{
+    opacity: 100%;
+  }
+}
+
+.conteudo{
+  animation: revealText 5s;
+}
