@@ -614,7 +614,7 @@ a{
     z-index: -1;
     
   }
-  #Marytom{width: 255px;px;
+  #Marytom{width: 255px;
     font-size:15px;
     font-family: Courier New', Courier, monospace;
     color: #111010;
@@ -641,9 +641,19 @@ a{
     height: 350px;
     border-color:rgb(26, 11, 124);
     position: absolute;
-    top: 165%;
+    top: 180%;
     left: 53%;
     z-index: -1;
+  }
+  #imgm{
+    width: 80px;px;
+    height: 80px;
+    border-color:rgb(26, 11, 124);
+    position: absolute;
+    top: 165%;
+    left: 59%;
+    z-index: -1;
+
   }
   #Leticia{width: 255px;px;
     font-size:15px;
@@ -653,7 +663,7 @@ a{
     border-color:rgb(26, 11, 124);
     position: absolute;
     top: 179%;
-    left: 72%;
+    left: 68%;
     z-index: -1;
   }
 
@@ -662,7 +672,7 @@ a{
   border-color:rgb(26, 11, 124);
   position: absolute;
   top: 165%;
-  left: 78%;
+  left: 73%;
   z-index: -1;
   
 }
