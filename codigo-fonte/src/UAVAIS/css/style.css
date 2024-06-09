@@ -621,8 +621,17 @@ a{
     height: 350px;
     border-color:rgb(26, 11, 124);
     position: absolute;
-    top: 165%;
+    top: 180%;
     left: 40%;
+    z-index: -1;
+  }
+  #imgM{
+    width: 80px;px;
+    height: 80px;
+    border-color:rgb(26, 11, 124);
+    position: absolute;
+    top: 165%;
+    left: 46%;
     z-index: -1;
   }
   #Matheus{width: 255px;px;
