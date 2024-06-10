@@ -154,13 +154,32 @@
 
 
             </div>
-                <div id="div2">
+                <div id="cadastroImagem">
 
-                    <h3 id="titulo01">Cadastro de images</h3>
-                   
-                    <input type="file" id="upload" accept="image/*">
-                                      
-                    <section id="image-container"></section>
+                    <section class="containerImagens">
+                        <button id="adcImgBoa" class="botaoVerde">Adicionar imagem (Planta em boa condição)</button>
+                        <button id="adcImgRuim" class="botaoVermelho">Adicionar imagem (Planta em má condição)</button>
+                
+                        <section class="galeriaContainer">
+                            <h2 class="tituloboa">Planta em boa condição</h2>
+                            <section id="galeiraBoa" class="galleryBoa"></section>
+                        </section>
+                
+                        <section class="galeriaContainer">
+                            <h2 class="tituloMa">Planta em má condição</h2>
+                            <section id="galeriaRuim" class="galleryRuim"></section>
+                        </section>
+                    </section>
+                
+                    <section id="popup" class="popup hidden">
+                        <section class="popup-content">
+                            <p>Deseja excluir essa imagem?</p>
+                            <button id="naoExcluir">Não excluir</button>
+                            <button id="excluir">Excluir</button>
+                        </section>
+                    </section>
+                
+                    <input type="file" id="fileInput" accept="image/*" class="hidden">
 
                     <script src="javascript/pagina_de_imagens.js"></script>
                
