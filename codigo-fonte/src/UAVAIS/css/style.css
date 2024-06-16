@@ -144,6 +144,31 @@ ul li#item-menu a{
     margin-left: 10px;
   }
 
+#home1 {
+    height: 861px;
+    background-image:url(../img/fundo1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+  .slider{
+    position: relative;
+    top: 100px;
+  }
+
+  .footer{
+
+    position: absolute;
+    top: 790px;
+    left: 825px;
+    background-color: #556B2F;
+    width: 400px;
+    height: 60px;
+    border-radius: 30px;
+    box-shadow: #1e2512 50px;
+  }
+
 .contents div{
   display: none;
 }
@@ -159,21 +184,41 @@ a{
   display: inline-flex;
 }
 
-.canva{
-  margin: 0 auto;
+.footer i{
+  color: white;
 }
 
-.canva{
+.email{
   position: absolute;
-  top: 600px;
-  left: 650px;
+  top: 17px;
+  left: 60px;
+  font-weight: 400;
+  color: white;
 }
 
-.canva h3{
+.telefone{
   position: absolute;
-  top: -20px;
-  left: 25px;
-  color: #556b2f;
+  top: 17px;
+  left: 272px;
+}
+
+#envelope{
+  font-size: 20px;
+  position: absolute;
+  top: 16px;
+  left: 32px;
+}
+
+#whatsapp{
+  font-size: 20px;
+  position: absolute;
+  top: 16px;
+  left: 250px;
+}
+
+.telefone{
+  font-weight: 400;
+  color: white;
 }
 
 .slider{

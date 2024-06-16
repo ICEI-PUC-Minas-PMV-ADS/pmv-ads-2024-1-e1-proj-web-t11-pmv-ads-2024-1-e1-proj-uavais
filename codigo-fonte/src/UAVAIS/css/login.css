@@ -29,6 +29,7 @@ body{
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
   background-color: #556B2F;
+  background-size: 100%;
   width: 270px;
   height: 650px;
 }
@@ -146,20 +147,28 @@ body{
   height: 40px;
 }
 
+.entrar2{
+  display: none;
+}
+
+input{
+  font-size: 16px;
+}
+
 #input{
-  padding-left: 92px;
+  padding-left: 100px;
 }
 
 #input2 {
-  padding-left: 89px;
+  padding-left: 99px;
 }
 
 #input3{
-  padding-left: 95px;
+  padding-left: 102px;
 }
 
 #input4{
-  padding-left: 169px;
+  padding-left: 185px;
 }
 
 .preencher input{
@@ -178,7 +187,7 @@ body{
 .placeholder{
   color: #959D99;
   position: absolute;
-  top: 219px;
+  top: 217px;
   left: 138px;
   font-weight: 400;
 }
@@ -214,5 +223,61 @@ body{
   height: 35px;
   font-size: 15px;
   cursor: pointer;
+}
+
+
+@media screen and (max-width: 1920px){
+
+  .caixa{
+    position: relative;
+    top: 500px;
+    left: 50%;
+  }
+
+}
+
+@media screen and (max-width: 1280px){
+
+  body{
+    background-image:url(../img/login/fundo.png);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    color: #959D99;
+  }
+
+}
+
+@media screen and (max-width: 900px){
+
+  .caixa{
+    width: 0px;
+    position: relative;
+    left: 140px;
+    top: 470px;
+    background-color: red;
+  }
+.parte-verde{
+  display: none;
+}
+
+.parte-branca{
+  position: relative;
+  width:625px;
+  align-items: center;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+.entrar2{
+  font-size: 20px;
+  font-weight: 800;
+  color: #556B2F;
+  display: inline-block;
+  position: absolute;
+  top: 550px;
+  left: 220px;
+}
+
+
 }
 

@@ -11,12 +11,14 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   color: #959D99;
+  width: 100%;
+  height: 100%;
 }
 
 .caixa{
-  position: absolute;
-  top: 50%;
-  right: 3%;
+  position: relative;
+  top: 450px;
+  left: 955px;
   transform: translate(-50%, -50%);
   border-radius: 30px;
   width: 900px;
@@ -78,14 +80,14 @@ h3{
   position: absolute;
   top: 330px;
   left: 200px;
-  padding-left: 92px;
+  padding-left: 100px;
 }
 
 #input3{
   position: absolute;
-  top: 380px;
+  top: 382px;
   left: 200px;
-  padding-left: 98px;
+  padding-left: 110px;
 }
 
 .input2 i{
@@ -98,14 +100,14 @@ h3{
 .input3 i{
   font-size: 24px;
   position: absolute;
-  top: 381px;
+  top: 385px;
   left: 210px;
 }
 
 .input2 .placeholder{
   font-weight: 600;
   position:absolute;
-  top: 340px;
+  top: 338px;
   left: 245px;
 }
 
