@@ -358,7 +358,7 @@ a{
 }
 
 .galleryRuim {
-  background-color: rgb(157, 43, 43);
+  background-color: #aaa;
   position: relative;
   column-count: 3;
   column-gap: 10px;
@@ -453,6 +453,49 @@ a{
 
 .hidden-input {
   display: none;
+}
+
+/*Style da página de agendamento de reunião*/
+
+.container_agenda {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#calendar {
+  margin: 20px 0;
+}
+
+.dataBotao {
+  margin: 20px 0;
+}
+
+.popupAgenda {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.popupAgenda dataBotao {
+  margin: 10px;
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
 }
 
 /*Serviço*/
