@@ -466,10 +466,10 @@ a{
   width: 700px;
   margin: 0 auto;
   text-align: center;
-  position: relative;
+  position: absolute;
   background-color: #556B2F;
   border-radius: 10px;
-  left: 50px;
+  left: 200px;
 }
 
 #calendar {
