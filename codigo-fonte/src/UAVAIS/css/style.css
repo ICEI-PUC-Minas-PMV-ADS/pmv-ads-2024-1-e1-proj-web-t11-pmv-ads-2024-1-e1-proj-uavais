@@ -343,15 +343,12 @@ a{
 
 .galleryBoa {
   background-color: #72913c;
-  /*display: flex;
-  flex-wrap: wrap;
-  justify-content: center;*/
   position: relative;
-  column-count: 4;
+  column-count: 3;
   column-gap: 10px;
   border-radius: 10px;
-  top: 50px;
-  left:50px;
+  top: 100px;
+  left:0px;
 }
 
 .galleryBoa img {
@@ -373,22 +370,19 @@ a{
   left: 300px;
 }*/
 
-.galleyRuim {
-  background-color: #556B2F;
-  /*display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  position: relative;*/
-  column-count: 4;
+.galleryRuim {
+  background-color: rgb(157, 43, 43);
+  position: relative;
+  column-count: 3;
   column-gap: 10px;
-  top: 500px;
-  left:220px;
+  top: 100px;
+  left:5px;
+  border-radius: 10px;
 }
 
 .galleryRuim img {
- /* max-width: 250px;
-  margin: 10px;*/
-  width: 100%;
+  margin: 15px;
+  width: 80%;
   margin-bottom: 10px;
   cursor: pointer;
   border-radius: 10px;
@@ -398,6 +392,11 @@ a{
   text-align: center;
   margin-top: 20px;
   height: 800px;
+  position: absolute;
+  column-count: 2;
+}
+
+.botoes {
   position: absolute;
 }
 
@@ -410,7 +409,7 @@ a{
   cursor: pointer;
   position: relative;  
   top: 50px;
-  left: 220px;
+  left: 0px;
   border-radius: 20px;
 }
 
@@ -423,7 +422,7 @@ a{
   cursor: pointer;
   position: relative;  
   top: 50px;
-  left: 220px;
+  left: 350px;
   border-radius: 20px;
 }
 
