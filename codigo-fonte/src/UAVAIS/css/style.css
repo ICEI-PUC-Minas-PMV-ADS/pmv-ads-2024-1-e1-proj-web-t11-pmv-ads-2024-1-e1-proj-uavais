@@ -463,7 +463,7 @@ a{
 
 .container_agenda {
   height: 600px;
-  width: 700px;
+  width: 950px;
   margin: 0 auto;
   text-align: center;
   position: absolute;
@@ -477,34 +477,49 @@ a{
 }
 
 .tituloAgenda {
-  position: absolute;
-  top: 30px
-  left: 50px;
+  width:950px;
+  font-size:50px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  height: 250px;
+  position: relative;
+  top: 70px
+  
 }
 
 .tituloAgendado {
+  width:300px;
+  font-size:30px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  height: 250px;
   position: relative;
-  top: 150px;
+  top: 100px;
+  left: 325px
 }
 
 .dataBotao {
-  /*margin: 20px 0;*/
-  background-color: #556b2f;
-  color: white;
-  border: none;
+  background-color: white;
+  color: #556b2f;
   padding: 10px 20px;
   margin: 10px;
   cursor: pointer;
   position: relative;  
-  top: 100px;
+  top: 30px;
   left: center;
   border-radius: 20px;
 }
 
 #dataHora {
   position: relative;
-  top: 100px;
+  top: 30px;
   left: center;
+}
+
+#agendaReuniao {
+  position: relative;
+  font-color: white
+  top: 100px;
 }
 
 .popupAgenda {
