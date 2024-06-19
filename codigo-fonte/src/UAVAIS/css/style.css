@@ -422,7 +422,7 @@ a{
   column-gap: 10;
 }
 
-.popup {
+.popupExcluir {
   position: fixed;
   top: 0;
   left: 0;
@@ -441,7 +441,7 @@ a{
   text-align: center;
 }
 
-.popup button {
+.popupExcluir button {
   margin: 10px;
   padding: 10px 20px;
   cursor: pointer;
@@ -457,18 +457,54 @@ a{
 
 /*Style da página de agendamento de reunião*/
 
+.popupAgenda {
+  position: absolute;
+}
+
 .container_agenda {
-  max-width: 500px;
+  height: 600px;
+  width: 700px;
   margin: 0 auto;
   text-align: center;
+  position: relative;
+  background-color: #556B2F;
+  border-radius: 10px;
+  left: 50px;
 }
 
 #calendar {
   margin: 20px 0;
 }
 
+.tituloAgenda {
+  position: absolute;
+  top: 30px
+  left: 50px;
+}
+
+.tituloAgendado {
+  position: relative;
+  top: 150px;
+}
+
 .dataBotao {
-  margin: 20px 0;
+  /*margin: 20px 0;*/
+  background-color: #556b2f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  position: relative;  
+  top: 100px;
+  left: center;
+  border-radius: 20px;
+}
+
+#dataHora {
+  position: relative;
+  top: 100px;
+  left: center;
 }
 
 .popupAgenda {

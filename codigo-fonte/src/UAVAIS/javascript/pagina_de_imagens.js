@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const fileInput = document.getElementById('fileInput');
     const galeiraBoa = document.getElementById('galeiraBoa');
     const galeriaRuim = document.getElementById('galeriaRuim');
-    const popup = document.getElementById('popup');
+    const popup = document.getElementById('popupIdExcluir');
     const naoExcluir = document.getElementById('naoExcluir');
     const excluir = document.getElementById('excluir');
 
