@@ -327,18 +327,16 @@ a{
 
 /*Style Página de Imagens*/
 
-/*.tituloboa {
+.imgTitulo {
   width:600px;
-  font-size:35px;
+  font-size:50px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   color: #556B2F;
-  position: relative;
-  top: 50px;
-  left: 300px;
-}*/
-
-.containerImagens {
+  height: 250px;
   position: absolute;
+  top: 20%;
+  left: 35%;
+  z-index: -1;
 }
 
 .galleryBoa {
@@ -359,24 +357,13 @@ a{
   border-radius: 10px;
 }
 
-/*.tituloMa {
-  width:600px;
-  font-size:35px;
-  font-family:Georgia, 'Times New Roman', Times, serif;
-  color: rgb(171, 14, 14);
-  height: 50px;
-  position: relative;
-  top: 60px;
-  left: 300px;
-}*/
-
 .galleryRuim {
   background-color: rgb(157, 43, 43);
   position: relative;
   column-count: 3;
   column-gap: 10px;
   top: 100px;
-  left:5px;
+  left:0px;
   border-radius: 10px;
 }
 
@@ -393,7 +380,8 @@ a{
   margin-top: 20px;
   height: 800px;
   position: absolute;
-  column-count: 2;
+  /*column-count: 2;*/
+  position: absolute;
 }
 
 .botoes {
@@ -408,7 +396,7 @@ a{
   margin: 10px;
   cursor: pointer;
   position: relative;  
-  top: 50px;
+  top: 100px;
   left: 0px;
   border-radius: 20px;
 }
@@ -421,8 +409,8 @@ a{
   margin: 10px;
   cursor: pointer;
   position: relative;  
-  top: 50px;
-  left: 350px;
+  top: 100px;
+  left: 0px;
   border-radius: 20px;
 }
 
@@ -430,7 +418,10 @@ a{
   margin-top: 20px;
 }
 
-
+.galeriaBR {
+  column-count: 2;
+  column-gap: 10;
+}
 
 .popup {
   position: fixed;
