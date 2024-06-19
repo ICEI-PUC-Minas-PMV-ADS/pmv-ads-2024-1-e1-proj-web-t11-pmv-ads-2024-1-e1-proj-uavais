@@ -327,50 +327,71 @@ a{
 
 /*Style Página de Imagens*/
 
-.tituloboa {
+/*.tituloboa {
+  width:600px;
+  font-size:35px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #556B2F;
   position: relative;
-  top: 40px;
-  left: 350px;
-}
+  top: 50px;
+  left: 300px;
+}*/
 
 .containerImagens {
   position: absolute;
 }
 
 .galleryBoa {
-  display: flex;
+  background-color: #72913c;
+  /*display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: center;*/
   position: relative;
-  top: 70px;
-  left:220px;
+  column-count: 4;
+  column-gap: 10px;
+  border-radius: 10px;
+  top: 50px;
+  left:50px;
 }
 
 .galleryBoa img {
-  max-width: 250px;
-  margin: 10px;
+  margin: 15px;
+  width: 80%;
+  margin-bottom: 10px;
   cursor: pointer;
+  border-radius: 10px;
 }
 
-.tituloMa {
+/*.tituloMa {
+  width:600px;
+  font-size:35px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: rgb(171, 14, 14);
+  height: 50px;
   position: relative;
-  top: 75px;
-  left: 350px;
-}
+  top: 60px;
+  left: 300px;
+}*/
 
 .galleyRuim {
-  display: flex;
+  background-color: #556B2F;
+  /*display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  position: relative;
-  top: 60%;
-  left: 50%;
+  position: relative;*/
+  column-count: 4;
+  column-gap: 10px;
+  top: 500px;
+  left:220px;
 }
 
 .galleryRuim img {
-  max-width: 250px;
-  margin: 10px;
+ /* max-width: 250px;
+  margin: 10px;*/
+  width: 100%;
+  margin-bottom: 10px;
   cursor: pointer;
+  border-radius: 10px;
 }
 
 .containerImagens {
@@ -381,27 +402,29 @@ a{
 }
 
 .botaoVerde {
-  background-color: green;
+  background-color: #556b2f;
   color: white;
   border: none;
   padding: 10px 20px;
   margin: 10px;
   cursor: pointer;
   position: relative;  
-  top: 20px;
-  left: 200px;
+  top: 50px;
+  left: 220px;
+  border-radius: 20px;
 }
 
 .botaoVermelho {
-  background-color: red;
+  background-color: rgb(171, 14, 14);
   color: white;
   border: none;
   padding: 10px 20px;
   margin: 10px;
   cursor: pointer;
   position: relative;  
-  top: 20px;
+  top: 50px;
   left: 220px;
+  border-radius: 20px;
 }
 
 .galeriaContainer {
