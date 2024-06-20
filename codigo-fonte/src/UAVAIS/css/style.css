@@ -334,13 +334,13 @@ a{
   color: #556B2F;
   height: 250px;
   position: absolute;
-  top: 20%;
+  top: 17%;
   left: 35%;
   z-index: -1;
 }
 
 .galleryBoa {
-  background-color: #72913c;
+  background-color: #556B2F;
   position: relative;
   column-count: 3;
   column-gap: 10px;
@@ -358,7 +358,7 @@ a{
 }
 
 .galleryRuim {
-  background-color: #aaa;
+  background-color: #7a7a7a;
   position: relative;
   column-count: 3;
   column-gap: 10px;
@@ -401,7 +401,7 @@ a{
 }
 
 .botaoVermelho {
-  background-color: rgb(171, 14, 14);
+  background-color: #7a7a7a;
   color: white;
   border: none;
   padding: 10px 20px;
