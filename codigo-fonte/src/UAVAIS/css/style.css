@@ -463,13 +463,14 @@ a{
 
 .container_agenda {
   height: 600px;
-  width: 950px;
+  width: 700px;
   margin: 0 auto;
   text-align: center;
   position: absolute;
   background-color: #556B2F;
   border-radius: 10px;
-  left: 200px;
+  left: 400px;
+  padding: 50px;
 }
 
 #calendar {
@@ -477,14 +478,13 @@ a{
 }
 
 .tituloAgenda {
-  width:950px;
+  width:600px;
   font-size:50px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   color: white;
   height: 250px;
   position: relative;
-  top: 70px
-  
+  top: 40px  
 }
 
 .tituloAgendado {
@@ -492,10 +492,9 @@ a{
   font-size:30px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   color: white;
-  height: 250px;
   position: relative;
-  top: 100px;
-  left: 325px
+  top: 35px;
+  left: 150px;
 }
 
 .dataBotao {
@@ -505,21 +504,23 @@ a{
   margin: 10px;
   cursor: pointer;
   position: relative;  
-  top: 30px;
+  top: 0px;
   left: center;
   border-radius: 20px;
-}
+  }
 
 #dataHora {
   position: relative;
-  top: 30px;
+  top: 0px;
   left: center;
 }
 
-#agendaReuniao {
+.statusReuniao {
+  width: 300px;
   position: relative;
-  font-color: white
-  top: 100px;
+  color: white;
+  top: 70px;
+  left: 150px;
 }
 
 .popupAgenda {
