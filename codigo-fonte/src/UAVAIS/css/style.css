@@ -351,7 +351,11 @@ a{
 
 .galleryBoa img {
   margin: 15px;
-  width: 85%;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  object-fit: cover; 
+  object-position: center;
   margin-bottom: 10px;
   cursor: pointer;
   border-radius: 10px;
@@ -367,9 +371,21 @@ a{
   border-radius: 10px;
 }
 
-.galleryRuim img {
+/*.galleryRuim img {
   margin: 15px;
   width: 85%;
+  margin-bottom: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+}*/
+
+.galleryRuim img {
+  margin: 15px;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  object-fit: cover; 
+  object-position: center;
   margin-bottom: 10px;
   cursor: pointer;
   border-radius: 10px;
