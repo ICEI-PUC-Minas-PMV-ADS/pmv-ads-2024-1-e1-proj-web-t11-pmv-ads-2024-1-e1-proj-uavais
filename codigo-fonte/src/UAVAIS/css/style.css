@@ -665,268 +665,248 @@ a{
     z-index: -1;
     }
     /*Quem somos*/
-    #qs{
-      width:600px;
-      font-size:50px;
-      font-family:Georgia, 'Times New Roman', Times, serif;
-      color: #556B2F;
-      height: 250px;
-      position: absolute;
-      top: 10%;
-      left: 47%;
+    .carousel {
+ 
+      width: 3000px;
+      height: 3000px;
+      left: -2%;
+      position:relative;
+      overflow: hidden;
+      border:none;
+      border-radius: 5px;
       z-index: -1;
-  }
-  #np{
-      width:600px;
-      font-size:30px;
-      font-family: Arial, Helvetica, sans-serif;
-      color: #111010;
-      height: 250px;
-      position: absolute;
-      top: 25%;
-      left: 47%;
-      z-index: -1;
-  }
-  #desenv{width:1050px;
-      font-size:30px;
-      font-family:'Courier New', Courier, monospace;
-      color: white;
-      height: 250px;
-      position: absolute;
-      text-align: center;
-      top: 35%;
-      left: 27%;
-      z-index: -1;
-      
-  }
-  .valores{ width: 350px;
-      font-family:serif;
-      background-color: #556B2F;
-      color: white;
      
-  }
-  #Missão{width: 255px;px;
-      font-size:35px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      height: 350px;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 80%;
-      left: 27%;
-      z-index: -1;
-  }
-  #fornecer{width: 210px;
-      font-size:20px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 92%;
-      left: 29%;
+    }
+    
+    .carousel-inner {
+      display:flex;
+      transition: transform 5s ease;}
+    
+    .carousel-item {
+      min-width: 30%;
+      max-width: 300%;
+      max-height: 30%;
+      min-height: 100%;
+      box-sizing: border-box;
+    }
+    
+    .carousel-item img {
+        width: 100%;
+        height: 100%;
+        position:relative;
+        overflow: hidden;
+      object-fit: cover; 
+      object-position: center;
+      border-radius: 1px;
+      opacity: 0.90;
       z-index: -1;
       }
-  #visao{width: 255px;px;
-      font-size:35px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      height: 350px;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 80%;
-      left: 44%;
-      z-index: -1;
-  }
-  #v{width: 210px;
-      font-size:20px;
-      font-family:Courier New', Courier, monospace;
-      color: #111010;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 92%;
-      left: 45%;
-      z-index: -1;
-      
-  }
-  #objt{width: 255px;px;
-      font-size:35px;
-      font-family: 'Courier New', Courier, monospace];
-      height: 350px;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 80%;
-      left: 61%;
-      z-index: -1;
-  }
-  #objt1{width: 255px;
-      font-size:20px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 93%;
-      left: 61%;
-      z-index: -1;
-  }
-  #objt2{width: 230px;
-      font-size:20px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 105%;
-      left: 62%;
-      z-index: -1;
-  }
-  #objt3{width: 230px;
-      font-size:20px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 120% ;
-      left: 62%;
-      z-index: -1;
-  }
-  #valor{width: 255px;px;
-      font-size:35px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      height: 350px;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 80%;
-      left: 78%;
-      z-index: -1;
-  
-  }
-  #vlr1{width: 230px;
-      font-size:20px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 93%;
-      left: 79%;
-      z-index: -1;
-  
-  }
-  #vlr2{width: 230px;
-      font-size:20px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 110%;
-      left: 79%;
-      z-index: -1;
-  
-  }
-  #time{
-    width: 230px;
-      font-size:30px;
-      font-family: Courier New', Courier, monospace;
-      color: #111010;
-      border-color:rgb(26, 11, 124);
-      position: absolute;
-      text-align: center;
-      top: 150%;
-      left: 50%;
-      z-index: -1;
-  }
-  #Gabriel{width: 255px;px;
-    font-size:15px;
-    font-family: Courier New', Courier, monospace;
-    color: #111010;
-    height: 350px;
-    border-color:rgb(26, 11, 124);
-    position: absolute;
-    top: 180%;
-    left: 27%;
-    z-index: -1;
-  }
-  #imgG{width: 80px;px;
-    height: 80px;
-    border-color:rgb(26, 11, 124);
-    position: absolute;
-    top: 165%;
-    left: 33%;
-    z-index: -1;
+        #qs{
+          width:600px;
+          font-size:50px;
+          font-family:Georgia, 'Times New Roman', Times, serif;
+          color: #556B2F;
+          height: 250px;
+          position: absolute;
+          top: 15%;
+          left: 36%;
+          
+      }
+      #np{
+          width:600px;
+          font-size:30px;
+          font-family: Arial, Helvetica, sans-serif;
+          color: #111010;
+          height: 250px;
+          position: absolute;
+          position: absolute;
+          top: 3%;
+          left: 14%;
+          
+      }
+      #desenv{width:1050px;
+          font-size:30px;
+          font-family:'Courier New', Courier, monospace;
+          color: rgb(88, 85, 85);
+          position: absolute;
+          height: 250px;
+          position: absolute;
+          text-align: center;
+          top: 6%;
+          left: 8%;
+          
+      }
     
-  }
-  #Marytom{width: 255px;
-    font-size:15px;
-    font-family: Courier New', Courier, monospace;
-    color: #111010;
-    height: 350px;
-    border-color:rgb(26, 11, 124);
-    position: absolute;
-    top: 180%;
-    left: 40%;
-    z-index: -1;
-  }
-  #imgM{
-    width: 80px;px;
-    height: 80px;
-    border-color:rgb(26, 11, 124);
-    position: absolute;
-    top: 165%;
-    left: 46%;
-    z-index: -1;
-  }
-  #Matheus{width: 255px;px;
-    font-size:15px;
-    font-family: Courier New', Courier, monospace;
-    color: #111010;
-    height: 350px;
-    border-color:rgb(26, 11, 124);
-    position: absolute;
-    top: 180%;
-    left: 53%;
-    z-index: -1;
-  }
-  #imgm{
-    width: 80px;px;
-    height: 80px;
-    border-color:rgb(26, 11, 124);
-    position: absolute;
-    top: 165%;
-    left: 59%;
-    z-index: -1;
-
-  }
-  #Leticia{width: 255px;px;
-    font-size:15px;
-    font-family: Courier New', Courier, monospace;
-    color: #111010;
-    height: 350px;
-    border-color:rgb(26, 11, 124);
-    position: absolute;
-    top: 179%;
-    left: 68%;
-    z-index: -1;
-  }
-
-#imgl{width: 80px;
-  height: 80px;
-  border-color:rgb(26, 11, 124);
-  position: absolute;
-  top: 165%;
-  left: 73%;
-  z-index: -1;
-  
-}
+      .valores{ width: 200px;
+          font-family:serif;
+          left: 15px;
+          font-size: 20px;
+          position: absolute;
+          color: rgb(2, 49, 9);
+         
+      }
+      .titulos{ width: 255px;
+        color: #050505;
+        font: size 35%;
+        position: absolute;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        opacity: 10.0;
+        z-index: 10;
+    
+      }
+      #Missão{
+          top: 15%;
+          left: 9%;
+      }
+      #fornecer{
+          top: 18%;
+          left: 10%;
+          
+          }
+      #visao{
+          top: 15%;
+          left: 19%;
+          
+      }
+      #v{
+          top: 18%;
+          left: 20%;
+    
+          
+      }
+      #objt{
+          top: 15%;
+          left: 28%;
+          
+      }
+      #objt1{
+          top: 18%;
+          left: 29%;
+         
+      }
+      #objt2{
+          top: 21%;
+          left: 29%;
+          
+      }
+      #objt3{
+          top: 24% ;
+          left: 29%;
+         
+      }
+      #valor{
+          top: 15%;
+          left: 36%;
+          
+      
+      }
+      #vlr1{
+          top: 18%;
+          left: 37%;
+        
+      
+      }
+      #vlr2{
+          top: 22%;
+          left: 37%;
+         
+      
+      }
+      #time{
+        width: 230px;
+          font-size:30px;
+          font-family: Courier New', Courier, monospace;
+          color: #111010;
+          border-color:rgb(26, 11, 124);
+          position: absolute;
+          text-align: center;
+          top: 27%;
+          left: 22%;
+         
+      }
+      #Gabriel{width: 255px;px;
+        font-size:15px;
+        font-family: Courier New', Courier, monospace;
+        color: #111010;
+        height: 350px;
+        border-color:rgb(26, 11, 124);
+        position: absolute;
+        top: 34%;
+        left: 9%;
+        
+      }
+      #imgG{width: 80px;px;
+        height: 80px;
+        border-color:rgb(26, 11, 124);
+        position: absolute;
+        top: 30%;
+        left: 12%;
+        opacity: 1.0;
+      }
+      #Marytom{width: 255px;
+        font-size:15px;
+        font-family: Courier New', Courier, monospace;
+        color: #111010;
+        height: 350px;
+        border-color:rgb(26, 11, 124);
+        position: absolute;
+        top: 34%;
+        left:16%;
+       
+      }
+      #imgM{
+        width: 80px;px;
+        height: 80px;
+        border-color:rgb(26, 11, 124);
+        position: absolute;
+        top: 30%;
+        left: 19%;
+        opacity: 1.0;
+        
+      }
+      #Matheus{width: 255px;px;
+        font-size:15px;
+        font-family: Courier New', Courier, monospace;
+        color: #111010;
+        height: 350px;
+        border-color:rgb(26, 11, 124);
+        position: absolute;
+        top: 34%;
+        left: 23%;
+      
+      }
+      #imgm{
+        width: 80px;px;
+        height: 80px;
+        border-color:rgb(26, 11, 124);
+        position: absolute;
+        top: 30%;
+        left: 26%;
+        opacity: 1.0;
+    
+      }
+      #Leticia{width: 255px;px;
+        font-size:15px;
+        font-family: Courier New', Courier, monospace;
+        color: #111010;
+        height: 350px;
+        border-color:rgb(26, 11, 124);
+        position: absolute;
+        top: 34%;
+        left: 32%;
+       
+      }
+    
+    #imgl{width: 80px;
+      height: 80px;
+      border-color:rgb(26, 11, 124);
+      position: absolute;
+      top: 30%;
+      left: 35%;
+      opacity: 1.0;
+    }
+     
+      
  
   /*T50*/
   .droneTitulo {
