@@ -928,4 +928,63 @@ a{
   
 }
  
+  /*T50*/
+  .droneTitulo {
+    width:600px;
+    font-size:60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #556B2F;
+    height: 250px;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    z-index: -1;
+  }
   
+  .botao_t50 {
+      margin: 20px 0;
+      
+      
+  }
+  
+  .botaoT50 {
+      background-color: #556b2f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    position: relative;  
+    top: 200px;
+    left: 0px;
+    border-radius: 20px;
+  }
+  
+  #content {
+      margin-top: 20px;
+  
+  }
+  
+  img {
+      max-width: 100%;
+  }
+  
+  .text {
+      margin-top: 10px;
+      font-size: 18px;
+      font-family:'Courier New', Courier, monospace;
+      position: absolute;
+      top: 5%;
+      text-align: center;
+  }
+  
+  .paragrafo {
+      width: 500px;
+      height: 300px;
+      background-color: #556B2F;
+      position: absolute;
+      top: 45%;
+      left: 37%;
+      padding: 5px;
+      border-radius: 10px;
+  }
