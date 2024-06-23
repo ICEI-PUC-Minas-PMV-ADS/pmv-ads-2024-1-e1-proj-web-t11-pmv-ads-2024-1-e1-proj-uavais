@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title: UAVAIS
+authors:
+  - family-names: Oliveira Roque
+    given-names: Gabriel
+  - family-names: Rodrigues de Oliveira Santos
+    given-names: Leticia
+  - family-names: Erllem Silva Sousa
+    given-names: Marytom
+  - family-names: Moreira Paes
+    given-names: Matheus
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Soares Vieira de Vasconcelos
+    given-names: Amália
+keywords:
+  - Unmanned
+  - Aerial
+  - Vehicle
+  - Artificial
+  - Intelligence
+  - System
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais
+version: 1.0.0
+date-released: 2024-06-23
