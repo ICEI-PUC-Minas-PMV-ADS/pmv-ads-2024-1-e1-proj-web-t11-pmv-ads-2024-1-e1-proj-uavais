@@ -17,14 +17,14 @@ combater a presença de ervas daninhas de maneira não-localizada necessita da u
 
 Como objetivos específicos, podemos destacar:
 
-- Agronegócio : benefícios do uso de drone para pulverização de defensivos é a substituição de trabalhadores. Isso elimina risco de exposição e incluem: aplicações complementares, rapidez, precisão, qualidade e aplicações localizadas. Além dos usos agrícolas, drones também são úteis na pecuária
+- Agronegócio: benefícios do uso de drone para pulverização de defensivos é a substituição de trabalhadores. Isso elimina risco de exposição e incluem: aplicações complementares, rapidez, precisão, qualidade e aplicações localizadas. Além dos usos agrícolas, drones também são úteis na pecuária
 
 - Segurança e monitoramento - Usar drones para a segurança já é algo frequente, especialmente em grandes eventos.Na maioria das vezes, é utilizado para realizar o monitoramento algum lugar
 
 
-- Varejo :s aplicações na logística de novas ferramentas tecnológicas, trazem para operações de varejo a inovação e a rapidez no despacho de mercadorias compradas tanto em lojas físicas como em e-commerces, além de diversas  vantagens, as quais podem ser alcançadas com estas novidades. Sendo assim, empresários lojistas de todos os setores, que já utilizam operações tradicionais de despacho de itens, passam a discutir e considerar esta tendência para os próximos anos, pois diante de diversas possibilidades, uma gama de oportunidades surge junto a estes novos dispositivos
+- Varejo: as aplicações na logística de novas ferramentas tecnológicas, trazem para operações de varejo a inovação e a rapidez no despacho de mercadorias compradas tanto em lojas físicas como em e-commerces, além de diversas  vantagens, as quais podem ser alcançadas com estas novidades. Sendo assim, empresários lojistas de todos os setores, que já utilizam operações tradicionais de despacho de itens, passam a discutir e considerar esta tendência para os próximos anos, pois diante de diversas possibilidades, uma gama de oportunidades surge junto a estes novos dispositivos
 
-- Meio Ambiente : os drones podem ser utilizados para monitorar áreas de preservação e identificar irregularidades. Além disso, os drones são capazes de coletar dados em áreas inacessíveis aos seres humanos e isso pode facilitar o processo de licenciamento. Os drones podem ser usados como semeadores no reflorestamento.
+- Meio Ambiente: os drones podem ser utilizados para monitorar áreas de preservação e identificar irregularidades. Além disso, os drones são capazes de coletar dados em áreas inacessíveis aos seres humanos e isso pode facilitar o processo de licenciamento. Os drones podem ser usados como semeadores no reflorestamento.
 
 ## Justificativa
 
