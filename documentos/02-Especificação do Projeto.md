@@ -77,7 +77,6 @@ Realizando em diferentes áreas, com ênfase em aplicações como agricultura, t
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
@@ -96,7 +95,6 @@ Realizando em diferentes áreas, com ênfase em aplicações como agricultura, t
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
