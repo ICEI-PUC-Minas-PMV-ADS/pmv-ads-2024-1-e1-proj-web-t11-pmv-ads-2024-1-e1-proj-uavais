@@ -11,20 +11,20 @@ Os desafios significativos em relação à autonomia e controle de drones em div
 
 ## Objetivos
 
-O Objetivo é criar um sistema genérico para drones, onde pode adaptá-lo para cada necessidade específica do drone, onde utiliza a inteligência artificial para fazer comandos autônomos para aquele drone sem a necessidade de um piloto  controlando ele o tempo todo.
+O objetivo é criar um sistema genérico para drones, onde pode adaptá-lo para cada necessidade específica do drone, onde utiliza a inteligência artificial para fazer comandos autônomos para aquele drone sem a necessidade de um piloto  controlando ele o tempo todo.
 
 combater a presença de ervas daninhas de maneira não-localizada necessita da utilização excessiva de herbicidas, algo que, além de ser bastante custoso, pode provocar danos ao meio ambiente. Tendo isso em vista, o objetivo deste TCC é utilizar das tecnologias atuais de processamento de imagem e aprendizado de máquina para criar soluções automatizadas de detecção e mapeamento de infestações nas culturas de soja, de forma a combater esse tipo de infestação de maneira mais eficiente e localizada. (CORDEIRO; FELINTO, 2022, p.01)
 
 Como objetivos específicos, podemos destacar:
 
-- Agronegócio - Benefícios do uso de drone para pulverização de defensivos é a substituição de trabalhadores. Isso elimina risco de exposição e incluem: aplicações complementares, rapidez, precisão, qualidade e aplicações localizadas. Além dos usos agrícolas, drones também são úteis na pecuária
+- Agronegócio: benefícios do uso de drone para pulverização de defensivos é a substituição de trabalhadores. Isso elimina risco de exposição e incluem: aplicações complementares, rapidez, precisão, qualidade e aplicações localizadas. Além dos usos agrícolas, drones também são úteis na pecuária
 
 - Segurança e monitoramento - Usar drones para a segurança já é algo frequente, especialmente em grandes eventos.Na maioria das vezes, é utilizado para realizar o monitoramento algum lugar
 
 
-- Varejo - As aplicações na logística de novas ferramentas tecnológicas, trazem para operações de varejo a inovação e a rapidez no despacho de mercadorias compradas tanto em lojas físicas como em e-commerces, além de diversas  vantagens, as quais podem ser alcançadas com estas novidades. Sendo assim, empresários lojistas de todos os setores, que já utilizam operações tradicionais de despacho de itens, passam a discutir e considerar esta tendência para os próximos anos, pois diante de diversas possibilidades, uma gama de oportunidades surge junto a estes novos dispositivos
+- Varejo: as aplicações na logística de novas ferramentas tecnológicas, trazem para operações de varejo a inovação e a rapidez no despacho de mercadorias compradas tanto em lojas físicas como em e-commerces, além de diversas  vantagens, as quais podem ser alcançadas com estas novidades. Sendo assim, empresários lojistas de todos os setores, que já utilizam operações tradicionais de despacho de itens, passam a discutir e considerar esta tendência para os próximos anos, pois diante de diversas possibilidades, uma gama de oportunidades surge junto a estes novos dispositivos
 
-- Meio Ambiente - O drones podem ser utilizados para monitorar áreas de preservação e identificar irregularidades. Além disso, os drones são capazes de coletar dados em áreas inacessíveis aos seres humanos e isso pode facilitar o processo de licenciamento. Os drones podem ser usados como semeadores no reflorestamento.
+- Meio Ambiente: os drones podem ser utilizados para monitorar áreas de preservação e identificar irregularidades. Além disso, os drones são capazes de coletar dados em áreas inacessíveis aos seres humanos e isso pode facilitar o processo de licenciamento. Os drones podem ser usados como semeadores no reflorestamento.
 
 ## Justificativa
 
