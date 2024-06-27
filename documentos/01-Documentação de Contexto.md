@@ -11,7 +11,7 @@ Os desafios significativos em relação à autonomia e controle de drones em div
 
 ## Objetivos
 
-O Objetivo é criar um sistema genérico para drones, onde pode adaptá-lo para cada necessidade específica do drone, onde utiliza a inteligência artificial para fazer comandos autônomos para aquele drone sem a necessidade de um piloto  controlando ele o tempo todo.
+O objetivo é criar um sistema genérico para drones, onde pode adaptá-lo para cada necessidade específica do drone, onde utiliza a inteligência artificial para fazer comandos autônomos para aquele drone sem a necessidade de um piloto  controlando ele o tempo todo.
 
 combater a presença de ervas daninhas de maneira não-localizada necessita da utilização excessiva de herbicidas, algo que, além de ser bastante custoso, pode provocar danos ao meio ambiente. Tendo isso em vista, o objetivo deste TCC é utilizar das tecnologias atuais de processamento de imagem e aprendizado de máquina para criar soluções automatizadas de detecção e mapeamento de infestações nas culturas de soja, de forma a combater esse tipo de infestação de maneira mais eficiente e localizada. (CORDEIRO; FELINTO, 2022, p.01)
 
