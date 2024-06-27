@@ -13,3 +13,4 @@ window.onload = function() {
         document.getElementById('salvarMsg').innerText = 'Historico: ' + salvarMsg;
     }
 };
+.
