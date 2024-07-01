@@ -20,3 +20,4 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 | Caso de teste |	Requisitos associados	| Objetivo do teste |	Passos | Critérios de êxito	| Responsável |
+| --- | --- | --- | --- | --- | --- |
