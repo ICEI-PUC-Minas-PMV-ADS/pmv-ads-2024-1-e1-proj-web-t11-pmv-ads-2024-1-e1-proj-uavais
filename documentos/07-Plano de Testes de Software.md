@@ -21,4 +21,4 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 | Caso de teste |	Requisitos associados	| Objetivo do teste |	Passos | Critérios de êxito	| Responsável |
 | --- | --- | --- | --- | --- | --- |
-| > -  | > - | > - | > - | > - | > - Gabriel |
+| > -  | > - | > - | > - | > - | - Gabriel |
