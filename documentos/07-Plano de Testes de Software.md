@@ -21,8 +21,4 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 | Caso de teste |	Requisitos associados	| Objetivo do teste |	Passos | Critérios de êxito	| Responsável |
 | --- | --- | --- | --- | --- | --- |
-| Verificar a funcionalidade da Galeria de Imagens |  | Verificar se as duas galeria permitem adicionar e excluir fotos | 1. Clicar em adicionar em botão "Adicionar Imagem".
-2. Selecionar uma imagem nos arquivos do computador.
-3. Clicar na imagem que foi adicionada.
-4. clicar em "sim" no popup com mensagem para excluir imagem.
-5. Executar processo duas vezes, uma em cada galeria.|  | Gabriel |
+| Verificar a funcionalidade da Galeria de Imagens |  | Verificar se as duas galeria permitem adicionar e excluir fotos | 1. Clicar em adicionar em botão "Adicionar Imagem". 2. Selecionar uma imagem nos arquivos do computador. 3. Clicar na imagem que foi adicionada. 4. clicar em "sim" no popup com mensagem para excluir imagem. 5. Executar processo duas vezes, uma em cada galeria.|  | Gabriel |
