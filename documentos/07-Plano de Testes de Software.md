@@ -21,4 +21,4 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 | Caso de teste |	Requisitos associados	| Objetivo do teste |	Passos | Critérios de êxito	| Responsável |
 | --- | --- | --- | --- | --- | --- |
-| Verificar funcionalidade da Galeria de Imagens |  |  |  |  | Gabriel |
+| Verificar a funcionalidade da Galeria de Imagens |  | Verificar se as duas galeria permitem adicionar e excluir fotos |  |  | Gabriel |
