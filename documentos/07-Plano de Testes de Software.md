@@ -18,3 +18,5 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+>
+> - Caso de teste |	Requisitos associados	| Objetivo do teste |	Passos | Critérios de êxito	| Responsável
