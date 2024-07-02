@@ -6,22 +6,10 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Engenharia </th>
+
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">Empresas de engenharia seja civil e ambiental </td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>1 – Melhorar o desempenho de mapeamento de área
-  
-2 – Inspecionar e identificar possíveis riscos em estruturas
 
-3 – Facilitar o acesso em lugares remotos e de difícil acesso
-
-4 – Sistema de patrulhamento remoto </td>
-</tr>
 <th colspan="2"> Agronegócio  </th>
 </tr>
 <tr>
@@ -39,17 +27,6 @@
 </tr>
 <tr>
 
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">Empresas de segurança privada e pública  </td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>1 - Aprimorar o sistema de segurança 
-
-2 - Monitorar atividades suspeitas  
-
-3 - Facilitar o trabalho dos vigilantes
-</table>
 
 
 ## Histórias de Usuários
