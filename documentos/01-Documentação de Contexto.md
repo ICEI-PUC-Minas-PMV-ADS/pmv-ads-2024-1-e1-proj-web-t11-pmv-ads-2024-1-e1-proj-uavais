@@ -35,7 +35,6 @@ A grande demanda necessita de vários profissionais capacitados para manuseio ca
 
 ## Público-Alvo
 
-Podemos notar que com a crescente evolução de novas tecnologias se tornou necessário a utilização da mesma para fins de agilidade e praticidade da vida humana. 
-Hoje com a proposta de drone automatizado com os requisitos apresentados pelo próprio cliente podemos atender vários nichos. 
-Como Agricultura, Mineração, Construção Civil, Meio Ambiente, Varejo, Arquitetura, Urbanismo, Filmagem e fotografia, Segurança e monitoramento, Agronegócio, Energia, Mercado imobiliário, Acompanhamento de obras, Telecomunicações, Logística, Inspeções Óleo e Gás Inspeções Esgoto e Tratamento de Água.
+Podemos notar que com a crescente evolução das novas tecnologias se tornou necessária a utilização da mesma para fins de agilidade e praticidade da vida humana. Hoje com a proposta de drone automatizado com os requisitos apresentados pelo próprio cliente, a  UAVAIS está focada em em trazer novas soluções tecnologicas voltada para o agronegócio, notamos que podemos incorpar em nossos equipamentos uma solução que vão de tarefas simples a tarefas mais complexas 
+
 
