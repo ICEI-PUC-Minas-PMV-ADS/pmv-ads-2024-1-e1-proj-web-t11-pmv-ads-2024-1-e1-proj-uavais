@@ -17,6 +17,12 @@ Responsável: Leticia
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/166565090/20b15ffd-1cfd-4299-aaaa-c85116c39bfd
 
+CT-04: Verificar o funcionalidade da pagina de localização do drone.
+Responsável: Matheus
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/160354706/49fe512b-c903-4a1d-a5c2-98fcefc38b0f
+
+
 
 
 
