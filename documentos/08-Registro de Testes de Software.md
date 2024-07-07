@@ -20,7 +20,9 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads
 CT-04: Verificar o funcionalidade da pagina de localização do drone.
 Responsável: Matheus
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/160354706/49fe512b-c903-4a1d-a5c2-98fcefc38b0f
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-proj-uavais/assets/160354706/8a6fcbec-8cfa-45e6-9b97-dfa3de7b7123
+
+
 
 
 
