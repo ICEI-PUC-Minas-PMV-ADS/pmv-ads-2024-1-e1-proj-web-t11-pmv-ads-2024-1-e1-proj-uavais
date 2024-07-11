@@ -11,26 +11,11 @@ Os desafios significativos em relação à autonomia e controle de drones em div
 
 ## Objetivos
 
-O objetivo é criar um sistema genérico para drones, onde pode adaptá-lo para cada necessidade específica do drone, onde utiliza a inteligência artificial para fazer comandos autônomos para aquele drone sem a necessidade de um piloto  controlando ele o tempo todo.
-
-combater a presença de ervas daninhas de maneira não-localizada necessita da utilização excessiva de herbicidas, algo que, além de ser bastante custoso, pode provocar danos ao meio ambiente. Tendo isso em vista, o objetivo deste TCC é utilizar das tecnologias atuais de processamento de imagem e aprendizado de máquina para criar soluções automatizadas de detecção e mapeamento de infestações nas culturas de soja, de forma a combater esse tipo de infestação de maneira mais eficiente e localizada. (CORDEIRO; FELINTO, 2022, p.01)
-
-Como objetivos específicos, podemos destacar:
-
-- Agronegócio: benefícios do uso de drone para pulverização de defensivos é a substituição de trabalhadores. Isso elimina risco de exposição e incluem: aplicações complementares, rapidez, precisão, qualidade e aplicações localizadas. Além dos usos agrícolas, drones também são úteis na pecuária
-
-- Segurança e monitoramento - Usar drones para a segurança já é algo frequente, especialmente em grandes eventos.Na maioria das vezes, é utilizado para realizar o monitoramento algum lugar
-
-
-- Varejo: as aplicações na logística de novas ferramentas tecnológicas, trazem para operações de varejo a inovação e a rapidez no despacho de mercadorias compradas tanto em lojas físicas como em e-commerces, além de diversas  vantagens, as quais podem ser alcançadas com estas novidades. Sendo assim, empresários lojistas de todos os setores, que já utilizam operações tradicionais de despacho de itens, passam a discutir e considerar esta tendência para os próximos anos, pois diante de diversas possibilidades, uma gama de oportunidades surge junto a estes novos dispositivos
-
-- Meio Ambiente: os drones podem ser utilizados para monitorar áreas de preservação e identificar irregularidades. Além disso, os drones são capazes de coletar dados em áreas inacessíveis aos seres humanos e isso pode facilitar o processo de licenciamento. Os drones podem ser usados como semeadores no reflorestamento.
+O objetivo é criar um sistema de IA genérico para drones, que possa ser adaptado para atender necessidades específicas através da inteligência artificial, permitindo a execução de comandos autônomos sem a necessidade de um piloto controlar o dispositivo o tempo todo. Esse sistema permitirá análise avançada de dados, detecção e diagnóstico automatizados para tomada de decisões baseada em dados de mapeamento e monitoramento em tempo real, além de previsão e planejamento na automação de tarefas para alcançar eficiência operacional e significativa melhoria na precisão agrícola na gestão integrada de fazendas, garantindo assim a sustentabilidade e a redução do impacto ambiental.
 
 ## Justificativa
 
-"O Brasil é, hoje, o principal mercado de drones da América do Sul e o segundo mais relevante das Américas, ficando atrás apenas dos EUA, com faturamento anual de US$ 373 milhões (R$ 1,872 bilhão)", (DINO, 2023).
-
-A grande demanda necessita de vários profissionais capacitados para manuseio cada drone, exercendo uma função específica, na qual será necessário fazer comandos manuais onde cada equipamento precisará de um profissional para coordená-lo.
+A justificativa é o uso de drones para o monitoramento de culturas, permitindo que os agricultores monitorem a saúde das plantas, detectem pragas, doenças e deficiências nutricionais de maneira mais eficiente, com precisão na aplicação de insumos, mapeamento e planejamento, economizando tempo e custo na coleta de dados em tempo real. Isso proporciona um suporte crucial na tomada de decisões. Além disso, há a redução do impacto ambiental e garantia da segurança do trabalhador agrícola, reduzindo a exposição a produtos químicos.
 
 
 ## Público-Alvo
